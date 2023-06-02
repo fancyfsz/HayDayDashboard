@@ -410,7 +410,6 @@ msgid "lemon curd"
 msgstr "柠檬酱"
 
 #: item.py:1133
-#, fuzzy
 msgid "tomato sauce"
 msgstr "西红柿酱"
 
@@ -420,7 +419,7 @@ msgstr "辣酱汁"
 
 #: item.py:1159
 msgid "hummus"
-msgstr ""
+msgstr "鹰嘴豆泥"
 
 #: item.py:1172
 msgid "tart dressing"
