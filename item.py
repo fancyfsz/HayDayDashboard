@@ -209,7 +209,7 @@ coffee_bean = hayday(
 list_items.append(coffee_bean)
 
 sesame = hayday(
-    name=_('sasame'),
+    name=_('sesame'),
     production_place='farm',
     level=50,
     production_time=td(hours=1),
@@ -1130,7 +1130,7 @@ lemon_curd.add_component(white_sugar, 1)
 list_items.append(lemon_curd)
 
 tomato_sauce = hayday(
-    name=_('tomate sauce'),
+    name=_('tomato sauce'),
     production_place='sauce maker',
     level=69,
     production_time=td(minutes=30),
