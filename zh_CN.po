@@ -1,0 +1,1418 @@
+# Chinese translations for PACKAGE package
+# PACKAGE 软件包的简体中文翻译.
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fancy zhao <fancyfsz@qq.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-02 16:52+0800\n"
+"PO-Revision-Date: 2023-06-02 16:54+0800\n"
+"Last-Translator: fancy zhao <fancyfsz@qq.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: item.py:29
+msgid "wheat"
+msgstr "小麦"
+
+#: item.py:39
+msgid "corn"
+msgstr "玉米"
+
+#: item.py:49
+msgid "soybean"
+msgstr "大豆"
+
+#: item.py:59
+msgid "sugarcane"
+msgstr "白糖"
+
+#: item.py:69
+msgid "carrot"
+msgstr "胡萝卜"
+
+#: item.py:79
+msgid "indigo"
+msgstr ""
+
+#: item.py:89
+msgid "apple"
+msgstr ""
+
+#: item.py:99
+msgid "pumpkin"
+msgstr ""
+
+#: item.py:109
+msgid "cotton"
+msgstr ""
+
+#: item.py:119
+msgid "raspberry"
+msgstr ""
+
+#: item.py:129
+msgid "cherry"
+msgstr ""
+
+#: item.py:139
+msgid "chili pepper"
+msgstr ""
+
+#: item.py:149
+msgid "blackberry"
+msgstr ""
+
+#: item.py:159
+msgid "tomato"
+msgstr ""
+
+#: item.py:169
+msgid "strawberry"
+msgstr ""
+
+#: item.py:179
+msgid "potato"
+msgstr ""
+
+#: item.py:189
+msgid "cacao"
+msgstr ""
+
+#: item.py:199
+msgid "coffee bean"
+msgstr ""
+
+#: item.py:209
+msgid "sasame"
+msgstr ""
+
+#: item.py:219
+msgid "pineapple"
+msgstr ""
+
+#: item.py:229
+msgid "lily"
+msgstr ""
+
+#: item.py:239
+msgid "rice"
+msgstr ""
+
+#: item.py:249
+msgid "olive"
+msgstr ""
+
+#: item.py:259
+msgid "lettuce"
+msgstr ""
+
+#: item.py:269
+msgid "garlic"
+msgstr ""
+
+#: item.py:279
+msgid "sunflower"
+msgstr ""
+
+#: item.py:289
+msgid "cabbage"
+msgstr ""
+
+#: item.py:299
+msgid "lemon"
+msgstr ""
+
+#: item.py:309
+msgid "onion"
+msgstr ""
+
+#: item.py:319
+msgid "cucumber"
+msgstr ""
+
+#: item.py:329
+msgid "orange"
+msgstr ""
+
+#: item.py:339
+msgid "beetroot"
+msgstr ""
+
+#: item.py:349
+msgid "peach"
+msgstr ""
+
+#: item.py:359
+msgid "ginger"
+msgstr ""
+
+#: item.py:369
+msgid "bell pepper"
+msgstr ""
+
+#: item.py:379
+msgid "tea leaf"
+msgstr ""
+
+#: item.py:389
+msgid "peony"
+msgstr ""
+
+#: item.py:399
+msgid "broccoli"
+msgstr ""
+
+#: item.py:409
+msgid "grapes"
+msgstr ""
+
+#: item.py:419
+msgid "mint"
+msgstr ""
+
+#: item.py:429
+msgid "banana"
+msgstr ""
+
+#: item.py:439
+msgid "passion fruit"
+msgstr ""
+
+#: item.py:449
+msgid "mushroom"
+msgstr ""
+
+#: item.py:459
+msgid "eggplant"
+msgstr ""
+
+#: item.py:469
+msgid "watermelon"
+msgstr ""
+
+#: item.py:479
+msgid "plum"
+msgstr ""
+
+#: item.py:489
+msgid "chickpea"
+msgstr ""
+
+#: item.py:499
+msgid "mango"
+msgstr ""
+
+#: item.py:509
+msgid "coconut"
+msgstr ""
+
+#: item.py:519
+msgid "guava"
+msgstr ""
+
+#: item.py:533
+msgid "chicken food"
+msgstr ""
+
+#: item.py:545
+msgid "cow food"
+msgstr ""
+
+#: item.py:558
+msgid "pig food"
+msgstr ""
+
+#: item.py:571
+msgid "sheep food"
+msgstr ""
+
+#: item.py:584
+msgid "goat food"
+msgstr ""
+
+#: item.py:601
+msgid "egg"
+msgstr ""
+
+#: item.py:612
+msgid "milk"
+msgstr ""
+
+#: item.py:623
+msgid "goat milk"
+msgstr ""
+
+#: item.py:634
+msgid "honeycomb"
+msgstr ""
+
+#: item.py:644
+msgid "bacon"
+msgstr ""
+
+#: item.py:655
+msgid "wool"
+msgstr ""
+
+#: item.py:666
+msgid "peanuts"
+msgstr ""
+
+#: item.py:679
+msgid "honey"
+msgstr ""
+
+#: item.py:690
+msgid "beeswax"
+msgstr ""
+
+#: item.py:703
+msgid "fish fillet"
+msgstr ""
+
+#: item.py:713
+msgid "lobster tail"
+msgstr ""
+
+#: item.py:723
+msgid "duck"
+msgstr ""
+
+#: item.py:736
+msgid "duck feather"
+msgstr ""
+
+#: item.py:749
+msgid "brown sugar"
+msgstr ""
+
+#: item.py:760
+msgid "white sugar"
+msgstr ""
+
+#: item.py:771
+msgid "syrup"
+msgstr ""
+
+#: item.py:783
+msgid "cream"
+msgstr ""
+
+#: item.py:794
+msgid "butter"
+msgstr "黄油"
+
+#: item.py:805
+msgid "cheese"
+msgstr ""
+
+#: item.py:816
+msgid "goat cheese"
+msgstr ""
+
+#: item.py:831
+msgid "bread"
+msgstr ""
+
+#: item.py:842
+msgid "corn bread"
+msgstr ""
+
+#: item.py:854
+msgid "cookie"
+msgstr ""
+
+#: item.py:867
+msgid "raspberry muffin"
+msgstr ""
+
+#: item.py:880
+msgid "blackberry muffin"
+msgstr ""
+
+#: item.py:893
+msgid "pizza"
+msgstr ""
+
+#: item.py:906
+msgid "spicy pizza"
+msgstr "辣味披萨"
+
+#: item.py:920
+msgid "potato bread"
+msgstr ""
+
+#: item.py:934
+msgid "frutti di mare pizza"
+msgstr ""
+
+#: item.py:948
+msgid "ginger bread cookie"
+msgstr ""
+
+#: item.py:962
+msgid "banana bread"
+msgstr ""
+
+#: item.py:976
+msgid "macaroon"
+msgstr ""
+
+#: item.py:992
+msgid "popcorn"
+msgstr ""
+
+#: item.py:1003
+msgid "buttered popcorn"
+msgstr ""
+
+#: item.py:1015
+msgid "chili popcorn"
+msgstr ""
+
+#: item.py:1027
+msgid "honey popcorn"
+msgstr ""
+
+#: item.py:1039
+msgid "chocolate popcorn"
+msgstr ""
+
+#: item.py:1051
+msgid "snack mix"
+msgstr ""
+
+#: item.py:1067
+msgid "soy sauce"
+msgstr ""
+
+#: item.py:1079
+msgid "olive oil"
+msgstr ""
+
+#: item.py:1090
+msgid "mayonnaise"
+msgstr ""
+
+#: item.py:1102
+msgid "olive dip"
+msgstr ""
+
+#: item.py:1116
+msgid "lemon curd"
+msgstr ""
+
+#: item.py:1130
+msgid "tomate sauce"
+msgstr ""
+
+#: item.py:1143
+msgid "salsa"
+msgstr ""
+
+#: item.py:1156
+msgid "hummus"
+msgstr ""
+
+#: item.py:1169
+msgid "tart dressing"
+msgstr ""
+
+#: item.py:1184
+msgid "pancake"
+msgstr ""
+
+#: item.py:1196
+msgid "bakon and eggs"
+msgstr ""
+
+#: item.py:1208
+msgid "hamburger"
+msgstr ""
+
+#: item.py:1220
+msgid "fish burger"
+msgstr ""
+
+#: item.py:1233
+msgid "roasted tomatoes"
+msgstr ""
+
+#: item.py:1244
+msgid "baked potato"
+msgstr ""
+
+#: item.py:1258
+msgid "fish and chips"
+msgstr ""
+
+#: item.py:1270
+msgid "lobster skewer"
+msgstr ""
+
+#: item.py:1283
+msgid "garlic bread"
+msgstr ""
+
+#: item.py:1297
+msgid "grilled onion"
+msgstr ""
+
+#: item.py:1309
+msgid "winter veggies"
+msgstr ""
+
+#: item.py:1323
+msgid "stuffed peppers"
+msgstr ""
+
+#: item.py:1337
+msgid "grilled eggplant"
+msgstr ""
+
+#: item.py:1349
+msgid "banana pancakes"
+msgstr ""
+
+#: item.py:1363
+msgid "fish skewer"
+msgstr ""
+
+#: item.py:1379
+msgid "carrot pie"
+msgstr ""
+
+#: item.py:1392
+msgid "pumpkin pie"
+msgstr ""
+
+#: item.py:1405
+msgid "bacon pie"
+msgstr ""
+
+#: item.py:1418
+msgid "apple pie"
+msgstr ""
+
+#: item.py:1432
+msgid "fish pie"
+msgstr ""
+
+#: item.py:1445
+msgid "feta pie"
+msgstr ""
+
+#: item.py:1458
+msgid "casserole"
+msgstr ""
+
+#: item.py:1472
+msgid "shepherds pie"
+msgstr ""
+
+#: item.py:1486
+msgid "chocolate pie"
+msgstr ""
+
+#: item.py:1500
+msgid "lemon pie"
+msgstr ""
+
+#: item.py:1513
+msgid "peach tart"
+msgstr ""
+
+#: item.py:1527
+msgid "passion fruit pie"
+msgstr ""
+
+#: item.py:1540
+msgid "mushroom pot pie"
+msgstr ""
+
+#: item.py:1554
+msgid "eggplant parmesan"
+msgstr ""
+
+#: item.py:1569
+msgid "sweater"
+msgstr ""
+
+#: item.py:1580
+msgid "cotton fabric"
+msgstr ""
+
+#: item.py:1591
+msgid "blue woolly hat"
+msgstr ""
+
+#: item.py:1603
+msgid "blue sweater"
+msgstr ""
+
+#: item.py:1615
+msgid "red scarf"
+msgstr ""
+
+#: item.py:1627
+msgid "flower shawl"
+msgstr ""
+
+#: item.py:1642
+msgid "cotton shirt"
+msgstr ""
+
+#: item.py:1653
+msgid "wooly chaps"
+msgstr ""
+
+#: item.py:1665
+msgid "violet dress"
+msgstr ""
+
+#: item.py:1678
+msgid "pillow"
+msgstr ""
+
+#: item.py:1691
+msgid "blanket"
+msgstr ""
+
+#: item.py:1706
+msgid "silver ore"
+msgstr ""
+
+#: item.py:1716
+msgid "gold ore"
+msgstr ""
+
+#: item.py:1726
+msgid "platinum ore"
+msgstr ""
+
+#: item.py:1736
+msgid "coal"
+msgstr ""
+
+#: item.py:1746
+msgid "iron ore"
+msgstr ""
+
+#: item.py:1759
+msgid "carrot cake"
+msgstr ""
+
+#: item.py:1772
+msgid "cream cake"
+msgstr ""
+
+#: item.py:1785
+msgid "red berry cake"
+msgstr ""
+
+#: item.py:1799
+msgid "cheesecake"
+msgstr ""
+
+#: item.py:1811
+msgid "strawberry  cake"
+msgstr ""
+
+#: item.py:1825
+msgid "chocolate cake"
+msgstr ""
+
+#: item.py:1838
+msgid "potato feta cake"
+msgstr ""
+
+#: item.py:1851
+msgid "honey apple cake"
+msgstr ""
+
+#: item.py:1865
+msgid "fancy cake"
+msgstr ""
+
+#: item.py:1879
+msgid "pineapple cake"
+msgstr ""
+
+#: item.py:1893
+msgid "lemon cake"
+msgstr ""
+
+#: item.py:1907
+msgid "fruit cake"
+msgstr ""
+
+#: item.py:1920
+msgid "chocolate roll"
+msgstr ""
+
+#: item.py:1936
+msgid "silver bar"
+msgstr ""
+
+#: item.py:1947
+msgid "gold bar"
+msgstr ""
+
+#: item.py:1958
+msgid "platinum  bar"
+msgstr ""
+
+#: item.py:1969
+msgid "refined coal"
+msgstr ""
+
+#: item.py:1980
+msgid "iron bar"
+msgstr ""
+
+#: item.py:1993
+msgid "carrot juice"
+msgstr ""
+
+#: item.py:2004
+msgid "apple juice"
+msgstr ""
+
+#: item.py:2015
+msgid "cherry juice"
+msgstr ""
+
+#: item.py:2026
+msgid "tomato juice"
+msgstr ""
+
+#: item.py:2037
+msgid "berry juice"
+msgstr ""
+
+#: item.py:2049
+msgid "pineapple juice"
+msgstr ""
+
+#: item.py:2060
+msgid "orange juice"
+msgstr ""
+
+#: item.py:2071
+msgid "grape juice"
+msgstr ""
+
+#: item.py:2082
+msgid "passion fruit juice"
+msgstr ""
+
+#: item.py:2094
+msgid "watermelon juice"
+msgstr ""
+
+#: item.py:2105
+msgid "mango juice"
+msgstr ""
+
+#: item.py:2116
+msgid "guava juice"
+msgstr ""
+
+#: item.py:2129
+msgid "apple jam"
+msgstr ""
+
+#: item.py:2140
+msgid "raspberry jam"
+msgstr ""
+
+#: item.py:2151
+msgid "blackberry jam"
+msgstr ""
+
+#: item.py:2162
+msgid "cherry jam"
+msgstr ""
+
+#: item.py:2173
+msgid "strawberry jam"
+msgstr ""
+
+#: item.py:2184
+msgid "marmalade"
+msgstr ""
+
+#: item.py:2195
+msgid "peach jam"
+msgstr ""
+
+#: item.py:2206
+msgid "grape jam"
+msgstr ""
+
+#: item.py:2217
+msgid "plum jam"
+msgstr ""
+
+#: item.py:2228
+msgid "passion fruit jam"
+msgstr ""
+
+#: item.py:2242
+msgid "bracelet"
+msgstr ""
+
+#: item.py:2254
+msgid "necklace"
+msgstr ""
+
+#: item.py:2267
+msgid "diamond ring"
+msgstr ""
+
+#: item.py:2280
+msgid "iron bracelet"
+msgstr ""
+
+#: item.py:2293
+msgid "flower pendant"
+msgstr ""
+
+#: item.py:2309
+msgid "caramel apple"
+msgstr ""
+
+#: item.py:2321
+msgid "toffee"
+msgstr ""
+
+#: item.py:2334
+msgid "chocolate"
+msgstr ""
+
+#: item.py:2347
+msgid "lollipop"
+msgstr ""
+
+#: item.py:2360
+msgid "jelly beans"
+msgstr ""
+
+#: item.py:2373
+msgid "honey peanuts"
+msgstr ""
+
+#: item.py:2385
+msgid "cottom candy"
+msgstr ""
+
+#: item.py:2397
+msgid "sesame brittle"
+msgstr ""
+
+#: item.py:2412
+msgid "espresso"
+msgstr ""
+
+#: item.py:2424
+msgid "caffe latte"
+msgstr ""
+
+#: item.py:2437
+msgid "caffe mocha"
+msgstr ""
+
+#: item.py:2450
+msgid "raspberry mocha"
+msgstr ""
+
+#: item.py:2464
+msgid "hot chocolate"
+msgstr ""
+
+#: item.py:2478 item.py:2504
+msgid "caramel latte"
+msgstr ""
+
+#: item.py:2491
+msgid "iced banana latte"
+msgstr ""
+
+#: item.py:2519
+msgid "vanilla ice cream"
+msgstr ""
+
+#: item.py:2532
+msgid "cherry popsicle"
+msgstr ""
+
+#: item.py:2544
+msgid "strawberry ice cream"
+msgstr ""
+
+#: item.py:2558
+msgid "chocolate ice cream"
+msgstr ""
+
+#: item.py:2572
+msgid "sesame ice cream"
+msgstr ""
+
+#: item.py:2585
+msgid "peanut butter milkshake"
+msgstr ""
+
+#: item.py:2599
+msgid "orange sorbet"
+msgstr ""
+
+#: item.py:2611
+msgid "affogato"
+msgstr ""
+
+#: item.py:2623
+msgid "peach ice cream"
+msgstr ""
+
+#: item.py:2637
+msgid "mint ice cream"
+msgstr ""
+
+#: item.py:2651
+msgid "banana split"
+msgstr ""
+
+#: item.py:2664
+msgid "coconut ice cream"
+msgstr ""
+
+#: item.py:2676
+msgid "fruit sorbet"
+msgstr ""
+
+#: item.py:2692
+msgid "fresh pasta"
+msgstr ""
+
+#: item.py:2704
+msgid "rice noddles"
+msgstr ""
+
+#: item.py:2717
+msgid "lobster soup"
+msgstr ""
+
+#: item.py:2731
+msgid "tomato soup"
+msgstr ""
+
+#: item.py:2746
+msgid "pumpkin soup"
+msgstr ""
+
+#: item.py:2760
+msgid "fish soup"
+msgstr ""
+
+#: item.py:2774
+msgid "cabbage soup"
+msgstr ""
+
+#: item.py:2788
+msgid "onion soup"
+msgstr ""
+
+#: item.py:2801
+msgid "noodle soup"
+msgstr ""
+
+#: item.py:2815
+msgid "potato soup"
+msgstr ""
+
+#: item.py:2828
+msgid "bell pepper soup"
+msgstr ""
+
+#: item.py:2842
+msgid "broccoli soup"
+msgstr ""
+
+#: item.py:2855
+msgid "mushroom soup"
+msgstr ""
+
+#: item.py:2869
+msgid "strawberry candle"
+msgstr ""
+
+#: item.py:2882
+msgid "raspberry candle"
+msgstr ""
+
+#: item.py:2895
+msgid "lemon candle"
+msgstr ""
+
+#: item.py:2908
+msgid "colorful candles"
+msgstr ""
+
+#: item.py:2922
+msgid "floral candle"
+msgstr ""
+
+#: item.py:2940
+msgid "rustic bouquet"
+msgstr ""
+
+#: item.py:2953
+msgid "brigth bouquet"
+msgstr ""
+
+#: item.py:2967
+msgid "gracious bouquet"
+msgstr ""
+
+#: item.py:2981
+msgid "candy bouquet"
+msgstr ""
+
+#: item.py:2994
+msgid "birthday bouquet"
+msgstr ""
+
+#: item.py:3008
+msgid "soft bouquet"
+msgstr ""
+
+#: item.py:3021
+msgid "veggie bouquet"
+msgstr ""
+
+#: item.py:3037
+msgid "sushi roll"
+msgstr ""
+
+#: item.py:3050
+msgid "lobster sushi"
+msgstr ""
+
+#: item.py:3063
+msgid "egg sushi"
+msgstr ""
+
+#: item.py:3077
+msgid "big sushi roll"
+msgstr ""
+
+#: item.py:3091
+msgid "rice ball"
+msgstr ""
+
+#: item.py:3106
+msgid "feta salad"
+msgstr ""
+
+#: item.py:3120
+msgid "BLT salad"
+msgstr ""
+
+#: item.py:3134
+msgid "seafood salad"
+msgstr ""
+
+#: item.py:3148
+msgid "pasta salad"
+msgstr ""
+
+#: item.py:3162
+msgid "veggie platter"
+msgstr ""
+
+#: item.py:3176
+msgid "coleslaw"
+msgstr ""
+
+#: item.py:3189
+msgid "beetroot salad"
+msgstr ""
+
+#: item.py:3201
+msgid "summer rolls"
+msgstr ""
+
+#: item.py:3215
+msgid "fruit salad"
+msgstr ""
+
+#: item.py:3230
+msgid "summer salad"
+msgstr ""
+
+#: item.py:3244
+msgid "mushroom salad"
+msgstr ""
+
+#: item.py:3260
+msgid "veggie bagel"
+msgstr ""
+
+#: item.py:3274
+msgid "bacon toast"
+msgstr ""
+
+#: item.py:3288
+msgid "egg sandwich"
+msgstr ""
+
+#: item.py:3302
+msgid "honey toast"
+msgstr ""
+
+#: item.py:3316
+msgid "peanut butter and jelly sandwich"
+msgstr ""
+
+#: item.py:3329
+msgid "cucumber sandwich"
+msgstr ""
+
+#: item.py:3342
+msgid "onion melt"
+msgstr ""
+
+#: item.py:3356
+msgid "goat cheese toast"
+msgstr ""
+
+#: item.py:3369
+msgid "hummus wrap"
+msgstr ""
+
+#: item.py:3385
+msgid "berry smoothie"
+msgstr ""
+
+#: item.py:3398
+msgid "green smoothie"
+msgstr ""
+
+#: item.py:3411
+msgid "yogurt smoothie"
+msgstr ""
+
+#: item.py:3425
+msgid "cucumber smoothie"
+msgstr ""
+
+#: item.py:3438
+msgid "mixed smoothie"
+msgstr ""
+
+#: item.py:3451
+msgid "black sesame smoothie"
+msgstr ""
+
+#: item.py:3464
+msgid "cocoa smoothie"
+msgstr ""
+
+#: item.py:3477
+msgid "plum smoothie"
+msgstr ""
+
+#: item.py:3491
+msgid "tropical smoothie"
+msgstr ""
+
+#: item.py:3508
+msgid "fried rice"
+msgstr ""
+
+#: item.py:3520
+msgid "spicy fish"
+msgstr ""
+
+#: item.py:3534
+msgid "peanut noodles"
+msgstr ""
+
+#: item.py:3548
+msgid "tofu stir fry"
+msgstr ""
+
+#: item.py:3565
+msgid "cloche hat"
+msgstr ""
+
+#: item.py:3577
+msgid "top hat"
+msgstr ""
+
+#: item.py:3590
+msgid "sun hat"
+msgstr ""
+
+#: item.py:3604
+msgid "flower crown"
+msgstr ""
+
+#: item.py:3618
+msgid "gnocchi"
+msgstr ""
+
+#: item.py:3632
+msgid "veggie lasagna"
+msgstr ""
+
+#: item.py:3646
+msgid "lobster pasta"
+msgstr ""
+
+#: item.py:3660
+msgid "pasta carbonara"
+msgstr ""
+
+#: item.py:3674
+msgid "broccoli pasta"
+msgstr ""
+
+#: item.py:3687
+msgid "spicy pasta"
+msgstr ""
+
+#: item.py:3701
+msgid "mushroom pasta"
+msgstr ""
+
+#: item.py:3716
+msgid "hot dog"
+msgstr ""
+
+#: item.py:3729
+msgid "tofu dog"
+msgstr ""
+
+#: item.py:3742
+msgid "corn dog"
+msgstr ""
+
+#: item.py:3755
+msgid "onion dog"
+msgstr ""
+
+#: item.py:3772
+msgid "plain donut"
+msgstr ""
+
+#: item.py:3786
+msgid "sprinkled donut"
+msgstr ""
+
+#: item.py:3798
+msgid "crunchy donut"
+msgstr ""
+
+#: item.py:3811
+msgid "cream donut"
+msgstr ""
+
+#: item.py:3824
+msgid "bacon donut"
+msgstr ""
+
+#: item.py:3837
+msgid "filled donut"
+msgstr ""
+
+#: item.py:3851
+msgid "taco"
+msgstr ""
+
+#: item.py:3864
+msgid "fish taco"
+msgstr ""
+
+#: item.py:3878
+msgid "quesadillas"
+msgstr ""
+
+#: item.py:3891
+msgid "nachos"
+msgstr ""
+
+#: item.py:3905
+msgid "green tea"
+msgstr ""
+
+#: item.py:3916
+msgid "milk tea"
+msgstr ""
+
+#: item.py:3928
+msgid "honey tea"
+msgstr ""
+
+#: item.py:3940
+msgid "lemon tea"
+msgstr ""
+
+#: item.py:3952
+msgid "apple ginger tea"
+msgstr ""
+
+#: item.py:3965
+msgid "orange tea"
+msgstr ""
+
+#: item.py:3977
+msgid "iced tea"
+msgstr ""
+
+#: item.py:3989
+msgid "mint tea"
+msgstr ""
+
+#: item.py:4004
+msgid "chocolate fondue"
+msgstr ""
+
+#: item.py:4016
+msgid "bacon fondue"
+msgstr ""
+
+#: item.py:4030
+msgid "cheese fondue"
+msgstr ""
+
+#: item.py:4044
+msgid "tropical fondue"
+msgstr ""
+
+#: item.py:4060
+msgid "lemon lotion"
+msgstr ""
+
+#: item.py:4072
+msgid "honey soap"
+msgstr ""
+
+#: item.py:4085
+msgid "exfoliating soap"
+msgstr ""
+
+#: item.py:4098
+msgid "honey face mask"
+msgstr ""
+
+#: item.py:4113
+msgid "bacon fries"
+msgstr ""
+
+#: item.py:4127
+msgid "hand pies"
+msgstr ""
+
+#: item.py:4140
+msgid "chili poppers"
+msgstr ""
+
+#: item.py:4154
+msgid "falafel"
+msgstr ""
+
+#: item.py:4168
+msgid "fried candy bar"
+msgstr ""
+
+#: item.py:4181
+msgid "samosa"
+msgstr ""
+
+#: item.py:4198
+msgid "pickles"
+msgstr ""
+
+#: item.py:4211
+msgid "canned fish"
+msgstr ""
+
+#: item.py:4224
+msgid "kimchi"
+msgstr ""
+
+#: item.py:4238
+msgid "dried fruit"
+msgstr ""
+
+#: item.py:4252
+msgid "guava compote"
+msgstr ""
+
+#: item.py:4267
+msgid "rich fudge"
+msgstr ""
+
+#: item.py:4280
+msgid "mint fudge"
+msgstr ""
+
+#: item.py:4294
+msgid "chili fudge"
+msgstr ""
+
+#: item.py:4308
+msgid "lemon fudge"
+msgstr ""
+
+#: item.py:4322
+msgid "peanut fudge"
+msgstr ""
+
+#: item.py:4338
+msgid "plain yogurt"
+msgstr ""
+
+#: item.py:4350
+msgid "strawbery yogurt"
+msgstr ""
+
+#: item.py:4362
+msgid "tropical yogurt"
+msgstr ""
+
+#: item.py:4378
+msgid "chickpea stew"
+msgstr ""
+
+#: item.py:4391
+msgid "chili stew"
+msgstr ""
+
+#: item.py:4405
+msgid "winter stew"
+msgstr ""
+
+#: item.py:4420
+msgid "plain cupcake"
+msgstr ""
+
+#: item.py:4434
+msgid "guava cupcake"
+msgstr ""
+
+#: item.py:4447
+msgid "tropical cupcake"
+msgstr ""
+
+#: item.py:4460
+msgid "cookie cupcake"
+msgstr ""
