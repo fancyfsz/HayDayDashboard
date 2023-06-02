@@ -20,7 +20,7 @@
 
   > python3 -m pip install -r requirements.txt 参考链接：https://muzing.top/posts/594ac4a6/
 
-- 运行 `python3 visualization.py`。没有报错的情况下，在浏览器中打开http://127.0.0.1:8050即可查看仪表盘。
+- 运行 `python3 visualization.py`。没有报错的情况下，在浏览器中打开 http://127.0.0.1:8050 即可查看仪表盘。
 
   
 
@@ -32,13 +32,14 @@
 
 # 可能的报错解决
 
-<img src="/Users/fancy/Desktop/截屏2023-06-02 14.26.35.png" alt="截屏2023-06-02 14.26.35" style="zoom:50%;" />
+<img width="535" alt="截屏2023-06-02 14 26 35" src="https://github.com/fancyfsz/HayDayDashboard/assets/16755699/a2751aa9-f935-4ab4-9d98-55798577b8d7">
+
 
 原因是没有安装pygraghviz库。如果在Mac arm芯片的机器上直接用`pip3 install pygraphviz`会安装失败，解决方法可以参见：https://github.com/pygraphviz/pygraphviz/issues/398
 
 ```
 brew install graphviz
-python -m pip install \
+python3 -m pip install \
     --global-option=build_ext \
     --global-option="-I$(brew --prefix graphviz)/include/" \
     --global-option="-L$(brew --prefix graphviz)/lib/" \
