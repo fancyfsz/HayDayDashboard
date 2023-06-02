@@ -30,6 +30,7 @@ list_items = []  # Store every item defined below
 
 wheat = hayday(
     name=_('wheat'),
+    name_key='wheat',
     production_place='farm',
     level=1,
     production_time=td(minutes=2),
@@ -40,6 +41,7 @@ list_items.append(wheat)
 
 corn = hayday(
     name=_('corn'),
+    name_key='corn',
     production_place='farm',
     level=2,
     production_time=td(minutes=5),
@@ -50,6 +52,7 @@ list_items.append(corn)
 
 soybean = hayday(
     name=_('soybean'),
+    name_key='soybean',
     production_place='farm',
     level=5,
     production_time=td(minutes=20),
@@ -60,6 +63,7 @@ list_items.append(soybean)
 
 sugarcane = hayday(
     name=_('sugarcane'),
+    name_key='sugarcane',
     production_place='farm',
     level=7,
     production_time=td(minutes=30),
@@ -70,6 +74,7 @@ list_items.append(sugarcane)
 
 carrot = hayday(
     name=_('carrot'),
+    name_key='carrot',
     production_place='farm',
     level=9,
     production_time=td(minutes=10),
@@ -80,6 +85,7 @@ list_items.append(carrot)
 
 indigo = hayday(
     name=_('indigo'),
+    name_key='indigo',
     production_place='farm',
     level=13,
     production_time=td(hours=2),
@@ -90,6 +96,7 @@ list_items.append(indigo)
 
 apple = hayday(
     name=_('apple'),
+    name_key='apple',
     production_place='farm',
     level=15,
     production_time=td(hours=16),
@@ -100,6 +107,7 @@ list_items.append(apple)
 
 pumpkin = hayday(
     name=_('pumpkin'),
+    name_key='pumpkin',
     production_place='farm',
     level=15,
     production_time=td(hours=3),
@@ -110,6 +118,7 @@ list_items.append(pumpkin)
 
 cotton = hayday(
     name=_('cotton'),
+    name_key='cotton',
     production_place='farm',
     level=18,
     production_time=td(hours=2, minutes=30),
@@ -120,6 +129,7 @@ list_items.append(cotton)
 
 raspberry = hayday(
     name=_('raspberry'),
+    name_key='raspberry',
     production_place='farm',
     level=19,
     production_time=td(hours=18),
@@ -130,6 +140,7 @@ list_items.append(raspberry)
 
 cherry = hayday(
     name=_('cherry'),
+    name_key='cherry',
     production_place='farm',
     level=22,
     production_time=td(days=1, hours=3),
@@ -140,6 +151,7 @@ list_items.append(cherry)
 
 chili_pepper = hayday(
     name=_('chili pepper'),
+    name_key='chili pepper',
     production_place='farm',
     level=25,
     production_time=td(hours=4),
@@ -150,6 +162,7 @@ list_items.append(chili_pepper)
 
 blackberry = hayday(
     name=_('blackberry'),
+    name_key='blackberry',
     production_place='farm',
     level=26,
     production_time=td(days=1, hours=8),
@@ -160,6 +173,7 @@ list_items.append(blackberry)
 
 tomato = hayday(
     name=_('tomato'),
+    name_key='tomato',
     production_place='farm',
     level=30,
     production_time=td(hours=6),
@@ -170,6 +184,7 @@ list_items.append(tomato)
 
 strawberry = hayday(
     name=_('strawberry'),
+    name_key='strawberry',
     production_place='farm',
     level=34,
     production_time=td(hours=8),
@@ -180,6 +195,7 @@ list_items.append(strawberry)
 
 potato = hayday(
     name=_('potato'),
+    name_key='potato',
     production_place='farm',
     level=35,
     production_time=td(hours=3, minutes=40),
@@ -190,6 +206,7 @@ list_items.append(potato)
 
 cacao = hayday(
     name=_('cacao'),
+    name_key='cacao',
     production_place='farm',
     level=36,
     production_time=td(days=1, hours=11),
@@ -200,6 +217,7 @@ list_items.append(cacao)
 
 coffee_bean = hayday(
     name=_('coffee bean'),
+    name_key='coffee bean',
     production_place='farm',
     level=42,
     production_time=td(days=1, hours=1),
@@ -210,6 +228,7 @@ list_items.append(coffee_bean)
 
 sesame = hayday(
     name=_('sesame'),
+    name_key='sesame',
     production_place='farm',
     level=50,
     production_time=td(hours=1),
@@ -220,6 +239,7 @@ list_items.append(sesame)
 
 pineapple = hayday(
     name=_('pineapple'),
+    name_key='pineapple',
     production_place='farm',
     level=52,
     production_time=td(minutes=30),
@@ -230,6 +250,7 @@ list_items.append(pineapple)
 
 lily = hayday(
     name=_('lily'),
+    name_key='lily',
     production_place='farm',
     level=53,
     production_time=td(hours=1, minutes=30),
@@ -240,6 +261,7 @@ list_items.append(lily)
 
 rice = hayday(
     name=_('rice'),
+    name_key='rice',
     production_place='farm',
     level=56,
     production_time=td(minutes=45),
@@ -250,6 +272,7 @@ list_items.append(rice)
 
 olive = hayday(
     name=_('olive'),
+    name_key='olive',
     production_place='farm',
     level=57,
     production_time=td(hours=24),
@@ -260,6 +283,7 @@ list_items.append(olive)
 
 lettuce = hayday(
     name=_('lettuce'),
+    name_key='lettuce',
     production_place='farm',
     level=58,
     production_time=td(hours=3, minutes=30),
@@ -270,6 +294,7 @@ list_items.append(lettuce)
 
 garlic = hayday(
     name=_('garlic'),
+    name_key='garlic',
     production_place='farm',
     level=60,
     production_time=td(minutes=30),
@@ -280,6 +305,7 @@ list_items.append(garlic)
 
 sunflower = hayday(
     name=_('sunflower'),
+    name_key='sunflower',
     production_place='farm',
     level=63,
     production_time=td(hours=1, minutes=30),
@@ -290,6 +316,7 @@ list_items.append(sunflower)
 
 cabbage = hayday(
     name=_('cabbage'),
+    name_key='cabbage',
     production_place='farm',
     level=65,
     production_time=td(minutes=45),
@@ -300,6 +327,7 @@ list_items.append(cabbage)
 
 lemon = hayday(
     name=_('lemon'),
+    name_key='lemon',
     production_place='farm',
     level=66,
     production_time=td(days=1, hours=5),
@@ -310,6 +338,7 @@ list_items.append(lemon)
 
 onion = hayday(
     name=_('onion'),
+    name_key='onion',
     production_place='farm',
     level=68,
     production_time=td(hours=5),
@@ -320,6 +349,7 @@ list_items.append(onion)
 
 cucumber = hayday(
     name=_('cucumber'),
+    name_key='cucumber',
     production_place='farm',
     level=70,
     production_time=td(minutes=35),
@@ -330,6 +360,7 @@ list_items.append(cucumber)
 
 orange = hayday(
     name=_('orange'),
+    name_key='orange',
     production_place='farm',
     level=71,
     production_time=td(days=1, hours=7),
@@ -340,6 +371,7 @@ list_items.append(orange)
 
 beetroot = hayday(
     name=_('beetroot'),
+    name_key='beetroot',
     production_place='farm',
     level=72,
     production_time=td(minutes=40),
@@ -350,6 +382,7 @@ list_items.append(beetroot)
 
 peach = hayday(
     name=_('peach'),
+    name_key='peach',
     production_place='farm',
     level=76,
     production_time=td(days=1, hours=6),
@@ -360,6 +393,7 @@ list_items.append(peach)
 
 ginger = hayday(
     name=_('ginger'),
+    name_key='ginger',
     production_place='farm',
     level=78,
     production_time=td(hours=2, minutes=30),
@@ -370,6 +404,7 @@ list_items.append(ginger)
 
 bell_pepper = hayday(
     name=_('bell pepper'),
+    name_key='bell pepper',
     production_place='farm',
     level=74,
     production_time=td(hours=4, minutes=30),
@@ -380,6 +415,7 @@ list_items.append(bell_pepper)
 
 tea_leaf = hayday(
     name=_('tea leaf'),
+    name_key='tea leaf',
     production_place='farm',
     level=80,
     production_time=td(hours=6, minutes=30),
@@ -390,6 +426,7 @@ list_items.append(tea_leaf)
 
 peony = hayday(
     name=_('peony'),
+    name_key='peony',
     production_place='farm',
     level=82,
     production_time=td(hours=4),
@@ -400,6 +437,7 @@ list_items.append(peony)
 
 broccoli = hayday(
     name=_('broccoli'),
+    name_key='broccoli',
     production_place='farm',
     level=83,
     production_time=td(hours=1, minutes=20),
@@ -410,6 +448,7 @@ list_items.append(broccoli)
 
 grapes = hayday(
     name=_('grapes'),
+    name_key='grapes',
     production_place='farm',
     level=84,
     production_time=td(hours=3),
@@ -420,6 +459,7 @@ list_items.append(grapes)
 
 mint = hayday(
     name=_('mint'),
+    name_key='mint',
     production_place='farm',
     level=85,
     production_time=td(hours=3),
@@ -430,6 +470,7 @@ list_items.append(mint)
 
 banana = hayday(
     name=_('banana'),
+    name_key='banana',
     production_place='farm',
     level=88,
     production_time=td(hours=27),
@@ -440,6 +481,7 @@ list_items.append(banana)
 
 passion_fruit = hayday(
     name=_('passion fruit'),
+    name_key='passion fruit',
     production_place='farm',
     level=88,
     production_time=td(hours=1),
@@ -450,6 +492,7 @@ list_items.append(passion_fruit)
 
 mushroom = hayday(
     name=_('mushroom'),
+    name_key='mushroom',
     production_place='farm',
     level=89,
     production_time=td(minutes=10),
@@ -460,6 +503,7 @@ list_items.append(mushroom)
 
 eggplant = hayday(
     name=_('eggplant'),
+    name_key='eggplant',
     production_place='farm',
     level=90,
     production_time=td(minutes=40),
@@ -470,6 +514,7 @@ list_items.append(eggplant)
 
 watermelon = hayday(
     name=_('watermelon'),
+    name_key='watermelon',
     production_place='farm',
     level=92,
     production_time=td(hours=5),
@@ -480,6 +525,7 @@ list_items.append(watermelon)
 
 plum = hayday(
     name=_('plum'),
+    name_key='plum',
     production_place='farm',
     level=94,
     production_time=td(days=1, hours=1),
@@ -490,6 +536,7 @@ list_items.append(plum)
 
 chickpea = hayday(
     name=_('chickpea'),
+    name_key='chickpea',
     production_place='farm',
     level=95,
     production_time=td(hours=1),
@@ -500,6 +547,7 @@ list_items.append(chickpea)
 
 mango = hayday(
     name=_('mango'),
+    name_key='mango',
     production_place='farm',
     level=97,
     production_time=td(days=1, hours=8),
@@ -510,6 +558,7 @@ list_items.append(mango)
 
 coconut = hayday(
     name=_('coconut'),
+    name_key='coconut',
     production_place='farm',
     level=101,
     production_time=td(days=1, hours=12),
@@ -520,6 +569,7 @@ list_items.append(coconut)
 
 guava = hayday(
     name=_('guava'),
+    name_key='guava',
     production_place='farm',
     level=104,
     production_time=td(days=1, hours=10),
@@ -534,6 +584,7 @@ list_items.append(guava)
 
 chicken_food = hayday(
     name=_('chicken food'),
+    name_key='chicken food',
     production_place='feed mill',
     level=3,
     production_time=td(minutes=5),
@@ -546,6 +597,7 @@ list_items.append(chicken_food)
 
 cow_food = hayday(
     name=_('cow food'),
+    name_key='cow food',
     production_place='feed mill',
     level=6,
     production_time=td(minutes=10),
@@ -559,6 +611,7 @@ list_items.append(cow_food)
 # TODO
 pig_food = hayday(
     name=_('pig food'),
+    name_key='pig food',
     production_place='feed mill',
     level=10,
     production_time=td(minutes=20),
@@ -572,6 +625,7 @@ list_items.append(pig_food)
 # TODO
 sheep_food = hayday(
     name=_('sheep food'),
+    name_key='sheep food',
     production_place='feed mill',
     level=16,
     production_time=td(minutes=30),
@@ -585,6 +639,7 @@ list_items.append(sheep_food)
 # TODO
 goat_food = hayday(
     name=_('goat food'),
+    name_key='goat food',
     production_place='feed mill',
     level=32,
     production_time=td(minutes=40),
@@ -602,6 +657,7 @@ list_items.append(goat_food)
 # Animals
 egg = hayday(
     name=_('egg'),
+    name_key='egg',
     production_place='farm',
     level=1,
     production_time=td(minutes=20),
@@ -613,6 +669,7 @@ list_items.append(egg)
 
 milk = hayday(
     name=_('milk'),
+    name_key='milk',
     production_place='farm',
     level=6,
     production_time=td(hours=1),
@@ -624,6 +681,7 @@ list_items.append(milk)
 
 goat_milk = hayday(
     name=_('goat milk'),
+    name_key='goat milk',
     production_place='farm',
     level=32,
     production_time=td(hours=8),
@@ -635,6 +693,7 @@ list_items.append(goat_milk)
 
 honeycomb = hayday(
     name=_('honeycomb'),
+    name_key='honeycomb',
     production_place='farm',
     level=39,
     production_time=td(minutes=35),
@@ -645,6 +704,7 @@ list_items.append(honeycomb)
 
 bacon = hayday(
     name=_('bacon'),
+    name_key='bacon',
     production_place='farm',
     level=10,
     production_time=td(hours=4),
@@ -656,6 +716,7 @@ list_items.append(bacon)
 
 wool = hayday(
     name=_('wool'),
+    name_key='wool',
     production_place='farm',
     level=16,
     production_time=td(hours=6),
@@ -667,6 +728,7 @@ list_items.append(wool)
 
 peanuts = hayday(
     name=_('peanuts'),
+    name_key='peanuts',
     production_place='farm',
     level=62,
     production_time=td(hours=5),
@@ -680,6 +742,7 @@ list_items.append(peanuts)
 
 honey = hayday(
     name=_('honey'),
+    name_key='honey',
     production_place='honey extractor',
     level=39,
     production_time=td(minutes=20),
@@ -691,6 +754,7 @@ list_items.append(honey)
 
 beeswax = hayday(
     name=_('beeswax'),
+    name_key='beeswax',
     production_place='honey extractor',
     level=48,
     production_time=td(minutes=45),
@@ -704,6 +768,7 @@ list_items.append(beeswax)
 # Fish
 fish_fillet = hayday(
     name=_('fish fillet'),
+    name_key='fish fillet',
     production_place='fishing lake',
     level=27,
     production_time=td(hours=7),
@@ -714,6 +779,7 @@ list_items.append(fish_fillet)
 
 lobster_tail = hayday(
     name=_('lobster tail'),
+    name_key='lobster tail',
     production_place='fishing lake',
     level=44,
     production_time=td(hours=6),
@@ -724,6 +790,7 @@ list_items.append(lobster_tail)
 
 duck = hayday(
     name=_('duck'),
+    name_key='duck',
     production_place='fishing lake',
     level=50,
     production_time=td(hours=2),
@@ -737,6 +804,7 @@ list_items.append(duck)
 
 duck_feather = hayday(
     name=_('duck feather'),
+    name_key='duck feather',
     production_place='duck salon',
     level=50,
     production_time=td(hours=2),
@@ -750,6 +818,7 @@ list_items.append(duck_feather)
 # Sugar mill (Every item already included)
 brown_sugar = hayday(
     name=_('brown sugar'),
+    name_key='brown sugar',
     production_place='sugar mill',
     level=7,
     production_time=td(minutes=20),
@@ -761,6 +830,7 @@ list_items.append(brown_sugar)
 
 white_sugar = hayday(
     name=_('white sugar'),
+    name_key='white sugar',
     production_place='sugar mill',
     level=13,
     production_time=td(minutes=40),
@@ -772,6 +842,7 @@ list_items.append(white_sugar)
 
 syrup = hayday(
     name=_('syrup'),
+    name_key='syrup',
     production_place='sugar mill',
     level=18,
     production_time=td(hours=1, minutes=30),
@@ -784,6 +855,7 @@ list_items.append(syrup)
 # Dairy (Every item already included)
 cream = hayday(
     name=_('cream'),
+    name_key='cream',
     production_place='dairy',
     level=6,
     production_time=td(minutes=20),
@@ -795,6 +867,7 @@ list_items.append(cream)
 
 butter = hayday(
     name=_('butter'),
+    name_key='butter',
     production_place='dairy',
     level=9,
     production_time=td(minutes=30),
@@ -806,6 +879,7 @@ list_items.append(butter)
 
 cheese = hayday(
     name=_('cheese'),
+    name_key='cheese',
     production_place='dairy',
     level=12,
     production_time=td(hours=1),
@@ -817,6 +891,7 @@ list_items.append(cheese)
 
 goat_cheese = hayday(
     name=_('goat cheese'),
+    name_key='goat cheese',
     production_place='dairy',
     level=33,
     production_time=td(hours=1, minutes=30),
@@ -832,6 +907,7 @@ list_items.append(goat_cheese)
 # Bakery
 bread = hayday(
     name=_('bread'),
+    name_key='bread',
     production_place='bakery',
     level=2,
     production_time=td(minutes=5),
@@ -843,6 +919,7 @@ list_items.append(bread)
 
 corn_bread = hayday(
     name=_('corn bread'),
+    name_key='corn bread',
     production_place='bakery',
     level=7,
     production_time=td(minutes=30),
@@ -855,6 +932,7 @@ list_items.append(corn_bread)
 
 cookie = hayday(
     name=_('cookie'),
+    name_key='cookie',
     production_place='bakery',
     level=10,
     production_time=td(hours=1),
@@ -868,6 +946,7 @@ list_items.append(cookie)
 
 raspberry_muffin = hayday(
     name=_('raspberry muffin'),
+    name_key='raspberry muffin',
     production_place='bakery',
     level=19,
     production_time=td(minutes=45),
@@ -881,6 +960,7 @@ list_items.append(raspberry_muffin)
 
 blackbery_muffin = hayday(
     name=_('blackberry muffin'),
+    name_key='blackberry muffin',
     production_place='bakery',
     level=26,
     production_time=td(minutes=45),
@@ -894,6 +974,7 @@ list_items.append(blackbery_muffin)
 
 pizza = hayday(
     name=_('pizza'),
+    name_key='pizza',
     production_place='bakery',
     level=33,
     production_time=td(minutes=15),
@@ -907,6 +988,7 @@ list_items.append(pizza)
 
 spicy_pizza = hayday(
     name=_('spicy pizza'),
+    name_key='spicy pizza',
     production_place='bakery',
     level=37,
     production_time=td(minutes=15),
@@ -921,6 +1003,7 @@ list_items.append(spicy_pizza)
 
 potato_bread = hayday(
     name=_('potato bread'),
+    name_key='potato bread',
     production_place='bakery',
     level=39,
     production_time=td(minutes=45),
@@ -935,6 +1018,7 @@ list_items.append(potato_bread)
 
 frutti_di_mare_pizza = hayday(
     name=_('frutti di mare pizza'),
+    name_key='frutti di mare pizza',
     production_place='bakery',
     level=45,
     production_time=td(minutes=15),
@@ -949,6 +1033,7 @@ list_items.append(frutti_di_mare_pizza)
 
 gingerbread_cookie = hayday(
     name=_('ginger bread cookie'),
+    name_key='ginger bread cookie',
     production_place='bakery',
     level=86,
     production_time=td(minutes=30),
@@ -963,6 +1048,7 @@ list_items.append(gingerbread_cookie)
 
 banana_bread = hayday(
     name=_('banana bread'),
+    name_key='banana bread',
     production_place='bakery',
     level=91,
     production_time=td(minutes=30),
@@ -977,6 +1063,7 @@ list_items.append(banana_bread)
 
 macaroon = hayday(
     name=_('macaroon'),
+    name_key='macaroon',
     production_place='bakery',
     level=101,
     production_time=td(minutes=30),
@@ -993,6 +1080,7 @@ list_items.append(macaroon)
 
 popcorn = hayday(
     name=_('popcorn'),
+    name_key='popcorn',
     production_place='popcorn pot',
     level=8,
     production_time=td(minutes=30),
@@ -1004,6 +1092,7 @@ list_items.append(popcorn)
 
 buttered_popcorn = hayday(
     name=_('buttered popcorn'),
+    name_key='buttered popcorn',
     production_place='popcorn pot',
     level=16,
     production_time=td(minutes=60),
@@ -1016,6 +1105,7 @@ list_items.append(buttered_popcorn)
 
 chili_popcorn = hayday(
     name=_('chili popcorn'),
+    name_key='chili popcorn',
     production_place='popcorn pot',
     level=25,
     production_time=td(hours=2),
@@ -1028,6 +1118,7 @@ list_items.append(chili_popcorn)
 
 honey_popcorn = hayday(
     name=_('honey popcorn'),
+    name_key='honey popcorn',
     production_place='popcorn pot',
     level=40,
     production_time=td(hours=1, minutes=30),
@@ -1040,6 +1131,7 @@ list_items.append(honey_popcorn)
 
 chocolate_popcorn = hayday(
     name=_('chocolate popcorn'),
+    name_key='chocolate popcorn',
     production_place='popcorn pot',
     level=44,
     production_time=td(hours=2, minutes=30),
@@ -1052,6 +1144,7 @@ list_items.append(chocolate_popcorn)
 
 snack_mix = hayday(
     name=_('snack mix'),
+    name_key='snack mix',
     production_place='popcorn pot',
     level=64,
     production_time=td(minutes=45),
@@ -1068,6 +1161,7 @@ list_items.append(snack_mix)
 
 soy_sauce = hayday(
     name=_('soy sauce'),
+    name_key='soy sauce',
     production_place='sauce maker',
     level=54,
     production_time=td(hours=3),
@@ -1080,6 +1174,7 @@ list_items.append(soy_sauce)
 
 olive_oil = hayday(
     name=_('olive oil'),
+    name_key='olive oil',
     production_place='sauce maker',
     level=60,
     production_time=td(minutes=45),
@@ -1091,6 +1186,7 @@ list_items.append(olive_oil)
 
 mayonnaise = hayday(
     name=_('mayonnaise'),
+    name_key='mayonnaise',
     production_place='sauce maker',
     level=62,
     production_time=td(minutes=15),
@@ -1103,6 +1199,7 @@ list_items.append(mayonnaise)
 
 olive_dip = hayday(
     name=_('olive dip'),
+    name_key='olive dip',
     production_place='sauce maker',
     level=66,
     production_time=td(minutes=45),
@@ -1117,6 +1214,7 @@ list_items.append(olive_dip)
 
 lemon_curd = hayday(
     name=_('lemon curd'),
+    name_key='lemon curd',
     production_place='sauce maker',
     level=66,
     production_time=td(minutes=25),
@@ -1131,6 +1229,7 @@ list_items.append(lemon_curd)
 
 tomato_sauce = hayday(
     name=_('tomato sauce'),
+    name_key='tomato sauce',
     production_place='sauce maker',
     level=69,
     production_time=td(minutes=30),
@@ -1144,6 +1243,7 @@ list_items.append(tomato_sauce)
 
 salsa = hayday(
     name=_('salsa'),
+    name_key='salsa',
     production_place='sauce maker',
     level=77,
     production_time=td(minutes=20),
@@ -1157,6 +1257,7 @@ list_items.append(salsa)
 
 hummus = hayday(
     name=_('hummus'),
+    name_key='hummus',
     production_place='sauce maker',
     level=95,
     production_time=td(minutes=30),
@@ -1170,6 +1271,7 @@ list_items.append(hummus)
 
 tart_dressing = hayday(
     name=_('tart dressing'),
+    name_key='tart dressing',
     production_place='sauce maker',
     level=100,
     production_time=td(minutes=30),
@@ -1185,6 +1287,7 @@ list_items.append(tart_dressing)
 
 pancake = hayday(
     name=_('pancake'),
+    name_key='pancake',
     production_place='bbq grill',
     level=9,
     production_time=td(minutes=30),
@@ -1197,6 +1300,7 @@ list_items.append(pancake)
 
 bacon_and_eggs = hayday(
     name=_('bakon and eggs'),
+    name_key='bakon and eggs',
     production_place='bbq grill',
     level=11,
     production_time=td(minutes=60),
@@ -1209,6 +1313,7 @@ list_items.append(bacon_and_eggs)
 
 hamburger = hayday(
     name=_('hamburger'),
+    name_key='hamburger',
     production_place='bbq grill',
     level=18,
     production_time=td(hours=2),
@@ -1221,6 +1326,7 @@ list_items.append(hamburger)
 
 fish_burger = hayday(
     name=_('fish burger'),
+    name_key='fish burger',
     production_place='bbq grill',
     level=27,
     production_time=td(hours=2),
@@ -1234,6 +1340,7 @@ list_items.append(fish_burger)
 
 roasted_tomatoes = hayday(
     name=_('roasted tomatoes'),
+    name_key='roasted tomatoes',
     production_place='bbq grill',
     level=30,
     production_time=td(hours=1, minutes=30),
@@ -1245,6 +1352,7 @@ list_items.append(roasted_tomatoes)
 
 baked_potato = hayday(
     name=_('baked potato'),
+    name_key='baked potato',
     production_place='bbq grill',
     level=35,
     production_time=td(minutes=35),
@@ -1259,6 +1367,7 @@ list_items.append(baked_potato)
 
 fish_and_chips = hayday(
     name=_('fish and chips'),
+    name_key='fish and chips',
     production_place='bbq grill',
     level=41,
     production_time=td(hours=1, minutes=30),
@@ -1271,6 +1380,7 @@ list_items.append(fish_and_chips)
 
 lobster_skewer = hayday(
     name=_('lobster skewer'),
+    name_key='lobster skewer',
     production_place='bbq grill',
     level=48,
     production_time=td(minutes=40),
@@ -1284,6 +1394,7 @@ list_items.append(lobster_skewer)
 
 garlic_bread = hayday(
     name=_('garlic bread'),
+    name_key='garlic bread',
     production_place='bbq grill',
     level=60,
     production_time=td(minutes=15),
@@ -1298,6 +1409,7 @@ list_items.append(garlic_bread)
 
 grilled_onion = hayday(
     name=_('grilled onion'),
+    name_key='grilled onion',
     production_place='bbq grill',
     level=68,
     production_time=td(hours=1),
@@ -1310,6 +1422,7 @@ list_items.append(grilled_onion)
 
 winter_veggies = hayday(
     name=_('winter veggies'),
+    name_key='winter veggies',
     production_place='bbq grill',
     level=72,
     production_time=td(minutes=25),
@@ -1324,6 +1437,7 @@ list_items.append(winter_veggies)
 
 stuffed_peppers = hayday(
     name=_('stuffed peppers'),
+    name_key='stuffed peppers',
     production_place='bbq grill',
     level=80,
     production_time=td(minutes=20),
@@ -1338,6 +1452,7 @@ list_items.append(stuffed_peppers)
 
 grilled_eggplant = hayday(
     name=_('grilled eggplant'),
+    name_key='grilled eggplant',
     production_place='bbq grill',
     level=90,
     production_time=td(minutes=40),
@@ -1350,6 +1465,7 @@ list_items.append(grilled_eggplant)
 
 banana_pancakes = hayday(
     name=_('banana pancakes'),
+    name_key='banana pancakes',
     production_place='bbq grill',
     level=94,
     production_time=td(hours=1),
@@ -1364,6 +1480,7 @@ list_items.append(banana_pancakes)
 
 fish_skewer = hayday(
     name=_('fish skewer'),
+    name_key='fish skewer',
     production_place='bbq grill',
     level=96,
     production_time=td(minutes=30),
@@ -1380,6 +1497,7 @@ list_items.append(fish_skewer)
 
 carrot_pie = hayday(
     name=_('carrot pie'),
+    name_key='carrot pie',
     production_place='pie oven',
     level=14,
     production_time=td(hours=1),
@@ -1393,6 +1511,7 @@ list_items.append(carrot_pie)
 
 pumpkin_pie = hayday(
     name=_('pumpkin pie'),
+    name_key='pumpkin pie',
     production_place='pie oven',
     level=15,
     production_time=td(hours=2),
@@ -1406,6 +1525,7 @@ list_items.append(pumpkin_pie)
 
 bacon_pie = hayday(
     name=_('bacon pie'),
+    name_key='bacon pie',
     production_place='pie oven',
     level=18,
     production_time=td(hours=3),
@@ -1419,6 +1539,7 @@ list_items.append(bacon_pie)
 
 apple_pie = hayday(
     name=_('apple pie'),
+    name_key='apple pie',
     production_place='pie oven',
     level=28,
     production_time=td(hours=2, minutes=30),
@@ -1433,6 +1554,7 @@ list_items.append(apple_pie)
 
 fish_pie = hayday(
     name=_('fish pie'),
+    name_key='fish pie',
     production_place='pie oven',
     level=28,
     production_time=td(hours=2),
@@ -1446,6 +1568,7 @@ list_items.append(fish_pie)
 
 feta_pie = hayday(
     name=_('feta pie'),
+    name_key='feta pie',
     production_place='pie oven',
     level=34,
     production_time=td(hours=1, minutes=30),
@@ -1459,6 +1582,7 @@ list_items.append(feta_pie)
 
 casserole = hayday(
     name=_('casserole'),
+    name_key='casserole',
     production_place='pie oven',
     level=36,
     production_time=td(hours=2),
@@ -1473,6 +1597,7 @@ list_items.append(casserole)
 
 shepherds_pie = hayday(
     name=_('shepherds pie'),
+    name_key='shepherds pie',
     production_place='pie oven',
     level=39,
     production_time=td(hours=1, minutes=40),
@@ -1487,6 +1612,7 @@ list_items.append(shepherds_pie)
 
 chocolate_pie = hayday(
     name=_('chocolate pie'),
+    name_key='chocolate pie',
     production_place='pie oven',
     level=65,
     production_time=td(hours=1, minutes=15),
@@ -1501,6 +1627,7 @@ list_items.append(chocolate_pie)
 
 lemon_pie = hayday(
     name=_('lemon pie'),
+    name_key='lemon pie',
     production_place='pie oven',
     level=67,
     production_time=td(hours=2, minutes=15),
@@ -1514,6 +1641,7 @@ list_items.append(lemon_pie)
 
 peach_tart = hayday(
     name=_('peach tart'),
+    name_key='peach tart',
     production_place='pie oven',
     level=76,
     production_time=td(hours=2, minutes=30),
@@ -1528,6 +1656,7 @@ list_items.append(peach_tart)
 
 passion_fruit_pie = hayday(
     name=_('passion fruit pie'),
+    name_key='passion fruit pie',
     production_place='pie oven',
     level=92,
     production_time=td(minutes=50),
@@ -1541,6 +1670,7 @@ list_items.append(passion_fruit_pie)
 
 mushroom_pot_pie = hayday(
     name=_('mushroom pot pie'),
+    name_key='mushroom pot pie',
     production_place='pie oven',
     level=97,
     production_time=td(hours=1),
@@ -1555,6 +1685,7 @@ list_items.append(mushroom_pot_pie)
 
 eggplant_parmesan = hayday(
     name=_('eggplant parmesan'),
+    name_key='eggplant parmesan',
     production_place='pie oven',
     level=99,
     production_time=td(minutes=45),
@@ -1570,6 +1701,7 @@ list_items.append(eggplant_parmesan)
 # Loom (Every item already  included)
 sweater = hayday(
     name=_('sweater'),
+    name_key='sweater',
     production_place='loom',
     level=17,
     production_time=td(hours=2),
@@ -1581,6 +1713,7 @@ list_items.append(sweater)
 
 cotton_fabric = hayday(
     name=_('cotton fabric'),
+    name_key='cotton fabric',
     production_place='loom',
     level=18,
     production_time=td(minutes=30),
@@ -1592,6 +1725,7 @@ list_items.append(cotton_fabric)
 
 blue_woolly_hat = hayday(
     name=_('blue woolly hat'),
+    name_key='blue woolly hat',
     production_place='loom',
     level=19,
     production_time=td(hours=1),
@@ -1604,6 +1738,7 @@ list_items.append(blue_woolly_hat)
 
 blue_sweater = hayday(
     name=_('blue sweater'),
+    name_key='blue sweater',
     production_place='loom',
     level=20,
     production_time=td(hours=3),
@@ -1616,6 +1751,7 @@ list_items.append(blue_sweater)
 
 red_scarf = hayday(
     name=_('red scarf'),
+    name_key='red scarf',
     production_place='loom',
     level=48,
     production_time=td(hours=2, minutes=30),
@@ -1628,6 +1764,7 @@ list_items.append(red_scarf)
 
 flower_shawl = hayday(
     name=_('flower shawl'),
+    name_key='flower shawl',
     production_place='loom',
     level=71,
     production_time=td(hours=1, minutes=30),
@@ -1643,6 +1780,7 @@ list_items.append(flower_shawl)
 
 cotton_shirt = hayday(
     name=_('cotton shirt'),
+    name_key='cotton shirt',
     production_place='sewing machine',
     level=19,
     production_time=td(minutes=45),
@@ -1654,6 +1792,7 @@ list_items.append(cotton_shirt)
 
 wooly_chaps = hayday(
     name=_('wooly chaps'),
+    name_key='wooly chaps',
     production_place='sewing machine',
     level=21,
     production_time=td(hours=1, minutes=30),
@@ -1666,6 +1805,7 @@ list_items.append(wooly_chaps)
 
 violet_dress = hayday(
     name=_('violet dress'),
+    name_key='violet dress',
     production_place='sewing machine',
     level=25,
     production_time=td(hours=2, minutes=15),
@@ -1679,6 +1819,7 @@ list_items.append(violet_dress)
 
 pillow = hayday(
     name=_('pillow'),
+    name_key='pillow',
     production_place='sewing machine',
     level=51,
     production_time=td(hours=3),
@@ -1692,6 +1833,7 @@ list_items.append(pillow)
 
 blanket = hayday(
     name=_('blanket'),
+    name_key='blanket',
     production_place='sewing machine',
     level=59,
     production_time=td(hours=3, minutes=30),
@@ -1707,6 +1849,7 @@ list_items.append(blanket)
 # Mine (Every item already included)
 silver_ore = hayday(
     name=_('silver ore'),
+    name_key='silver ore',
     production_place='mine',
     level=24,
     production_time=td(minutes=1),
@@ -1717,6 +1860,7 @@ list_items.append(silver_ore)
 
 gold_ore = hayday(
     name=_('gold ore'),
+    name_key='gold ore',
     production_place='mine',
     level=24,
     production_time=td(minutes=1),
@@ -1727,6 +1871,7 @@ list_items.append(gold_ore)
 
 platinum_ore = hayday(
     name=_('platinum ore'),
+    name_key='platinum ore',
     production_place='mine',
     level=25,
     production_time=td(minutes=1),
@@ -1737,6 +1882,7 @@ list_items.append(platinum_ore)
 
 coal = hayday(
     name=_('coal'),
+    name_key='coal',
     production_place='mine',
     level=33,
     production_time=td(minutes=1),
@@ -1747,6 +1893,7 @@ list_items.append(coal)
 
 iron_ore = hayday(
     name=_('iron ore'),
+    name_key='iron ore',
     production_place='mine',
     level=34,
     production_time=td(minutes=1),
@@ -1760,6 +1907,7 @@ list_items.append(iron_ore)
 
 carrot_cake = hayday(
     name=_('carrot cake'),
+    name_key='carrot cake',
     production_place='cake oven',
     level=21,
     production_time=td(hours=1, minutes=30),
@@ -1773,6 +1921,7 @@ list_items.append(carrot_cake)
 
 cream_cake = hayday(
     name=_('cream cake'),
+    name_key='cream cake',
     production_place='cake oven',
     level=23,
     production_time=td(hours=3),
@@ -1786,6 +1935,7 @@ list_items.append(cream_cake)
 
 red_berry_cake = hayday(
     name=_('red berry cake'),
+    name_key='red berry cake',
     production_place='cake oven',
     level=23,
     production_time=td(hours=1),
@@ -1800,6 +1950,7 @@ list_items.append(red_berry_cake)
 
 cheesecake = hayday(
     name=_('cheesecake'),
+    name_key='cheesecake',
     production_place='cake oven',
     level=24,
     production_time=td(hours=4),
@@ -1812,6 +1963,7 @@ list_items.append(cheesecake)
 
 strawberry_cake = hayday(
     name=_('strawberry  cake'),
+    name_key='strawberry  cake',
     production_place='cake oven',
     level=35,
     production_time=td(hours=3),
@@ -1826,6 +1978,7 @@ list_items.append(strawberry_cake)
 
 chocolate_cake = hayday(
     name=_('chocolate cake'),
+    name_key='chocolate cake',
     production_place='cake oven',
     level=36,
     production_time=td(hours=2),
@@ -1839,6 +1992,7 @@ list_items.append(chocolate_cake)
 
 potato_feta_cake = hayday(
     name=_('potato feta cake'),
+    name_key='potato feta cake',
     production_place='cake oven',
     level=38,
     production_time=td(hours=2),
@@ -1852,6 +2006,7 @@ list_items.append(potato_feta_cake)
 
 honey_apple_cake = hayday(
     name=_('honey apple cake'),
+    name_key='honey apple cake',
     production_place='cake oven',
     level=42,
     production_time=td(hours=3, minutes=20),
@@ -1866,6 +2021,7 @@ list_items.append(honey_apple_cake)
 
 fancy_cake = hayday(
     name=_('fancy cake'),
+    name_key='fancy cake',
     production_place='cake oven',
     level=54,
     production_time=td(minutes=15),
@@ -1880,6 +2036,7 @@ list_items.append(fancy_cake)
 
 pineapple_cake = hayday(
     name=_('pineapple cake'),
+    name_key='pineapple cake',
     production_place='cake oven',
     level=65,
     production_time=td(hours=1, minutes=15),
@@ -1894,6 +2051,7 @@ list_items.append(pineapple_cake)
 
 lemon_cake = hayday(
     name=_('lemon cake'),
+    name_key='lemon cake',
     production_place='cake oven',
     level=68,
     production_time=td(hours=2, minutes=30),
@@ -1908,6 +2066,7 @@ list_items.append(lemon_cake)
 
 fruit_cake = hayday(
     name=_('fruit cake'),
+    name_key='fruit cake',
     production_place='cake oven',
     level=89,
     production_time=td(hours=3),
@@ -1921,6 +2080,7 @@ fruit_cake.add_component(wheat, 3)
 
 chocolate_roll = hayday(
     name=_('chocolate roll'),
+    name_key='chocolate roll',
     production_place='cake oven',
     level=95,
     production_time=td(hours=1, minutes=30),
@@ -1937,6 +2097,7 @@ list_items.append(chocolate_roll)
 
 silver_bar = hayday(
     name=_('silver bar'),
+    name_key='silver bar',
     production_place='smelter',
     level=24,
     production_time=td(hours=8),
@@ -1948,6 +2109,7 @@ list_items.append(silver_bar)
 
 gold_bar = hayday(
     name=_('gold bar'),
+    name_key='gold bar',
     production_place='smelter',
     level=25,
     production_time=td(hours=12),
@@ -1959,6 +2121,7 @@ list_items.append(gold_bar)
 
 platinum_bar = hayday(
     name=_('platinum  bar'),
+    name_key='platinum  bar',
     production_place='smelter',
     level=25,
     production_time=td(hours=16),
@@ -1970,6 +2133,7 @@ list_items.append(platinum_bar)
 
 refined_coal = hayday(
     name=_('refined coal'),
+    name_key='refined coal',
     production_place='smelter',
     level=33,
     production_time=td(hours=6),
@@ -1981,6 +2145,7 @@ list_items.append(refined_coal)
 
 iron_bar = hayday(
     name=_('iron bar'),
+    name_key='iron bar',
     production_place='smelter',
     level=34,
     production_time=td(hours=7),
@@ -1994,6 +2159,7 @@ list_items.append(iron_bar)
 # Juice press
 carrot_juice = hayday(
     name=_('carrot juice'),
+    name_key='carrot juice',
     production_place='juice press',
     level=26,
     production_time=td(minutes=30),
@@ -2005,6 +2171,7 @@ list_items.append(carrot_juice)
 
 apple_juice = hayday(
     name=_('apple juice'),
+    name_key='apple juice',
     production_place='juice press',
     level=28,
     production_time=td(hours=2),
@@ -2016,6 +2183,7 @@ list_items.append(apple_juice)
 
 cherry_juice = hayday(
     name=_('cherry juice'),
+    name_key='cherry juice',
     production_place='juice press',
     level=30,
     production_time=td(hours=2, minutes=30),
@@ -2027,6 +2195,7 @@ list_items.append(cherry_juice)
 
 tomato_juice = hayday(
     name=_('tomato juice'),
+    name_key='tomato juice',
     production_place='juice press',
     level=31,
     production_time=td(hours=1, minutes=30),
@@ -2038,6 +2207,7 @@ list_items.append(tomato_juice)
 
 berry_juice = hayday(
     name=_('berry juice'),
+    name_key='berry juice',
     production_place='juice press',
     level=31,
     production_time=td(hours=3),
@@ -2050,6 +2220,7 @@ list_items.append(berry_juice)
 
 pineapple_juice = hayday(
     name=_('pineapple juice'),
+    name_key='pineapple juice',
     production_place='juice press',
     level=52,
     production_time=td(minutes=45),
@@ -2061,6 +2232,7 @@ list_items.append(pineapple_juice)
 
 orange_juice = hayday(
     name=_('orange juice'),
+    name_key='orange juice',
     production_place='juice press',
     level=71,
     production_time=td(hours=2),
@@ -2072,6 +2244,7 @@ list_items.append(orange_juice)
 
 grape_juice = hayday(
     name=_('grape juice'),
+    name_key='grape juice',
     production_place='juice press',
     level=84,
     production_time=td(hours=2, minutes=30),
@@ -2083,6 +2256,7 @@ list_items.append(grape_juice)
 
 passion_fruit_juice = hayday(
     name=_('passion fruit juice'),
+    name_key='passion fruit juice',
     production_place='juice press',
     level=88,
     production_time=td(minutes=45),
@@ -2095,6 +2269,7 @@ list_items.append(passion_fruit_juice)
 
 watermelon_juice = hayday(
     name=_('watermelon juice'),
+    name_key='watermelon juice',
     production_place='juice press',
     level=92,
     production_time=td(hours=1),
@@ -2106,6 +2281,7 @@ list_items.append(watermelon_juice)
 
 mango_juice = hayday(
     name=_('mango juice'),
+    name_key='mango juice',
     production_place='juice press',
     level=97,
     production_time=td(minutes=50),
@@ -2117,6 +2293,7 @@ list_items.append(mango_juice)
 
 guava_juice = hayday(
     name=_('guava juice'),
+    name_key='guava juice',
     production_place='juice press',
     level=104,
     production_time=td(minutes=55),
@@ -2130,6 +2307,7 @@ list_items.append(guava_juice)
 
 apple_jam = hayday(
     name=_('apple jam'),
+    name_key='apple jam',
     production_place='jam maker',
     level=35,
     production_time=td(hours=6),
@@ -2141,6 +2319,7 @@ list_items.append(apple_jam)
 
 raspberry_jam = hayday(
     name=_('raspberry jam'),
+    name_key='raspberry jam',
     production_place='jam maker',
     level=36,
     production_time=td(hours=7),
@@ -2152,6 +2331,7 @@ list_items.append(raspberry_jam)
 
 blackberry_jam = hayday(
     name=_('blackberry jam'),
+    name_key='blackberry jam',
     production_place='jam maker',
     level=37,
     production_time=td(hours=8),
@@ -2163,6 +2343,7 @@ list_items.append(blackberry_jam)
 
 cherry_jam = hayday(
     name=_('cherry jam'),
+    name_key='cherry jam',
     production_place='jam maker',
     level=38,
     production_time=td(hours=7),
@@ -2174,6 +2355,7 @@ list_items.append(cherry_jam)
 
 strawberry_jam = hayday(
     name=_('strawberry jam'),
+    name_key='strawberry jam',
     production_place='jam maker',
     level=50,
     production_time=td(hours=7, minutes=30),
@@ -2185,6 +2367,7 @@ list_items.append(strawberry_jam)
 
 marmalade = hayday(
     name=_('marmalade'),
+    name_key='marmalade',
     production_place='jam maker',
     level=74,
     production_time=td(hours=8, minutes=30),
@@ -2196,6 +2379,7 @@ list_items.append(marmalade)
 
 peach_jam = hayday(
     name=_('peach jam'),
+    name_key='peach jam',
     production_place='jam maker',
     level=79,
     production_time=td(hours=8),
@@ -2207,6 +2391,7 @@ list_items.append(peach_jam)
 
 grape_jam = hayday(
     name=_('grape jam'),
+    name_key='grape jam',
     production_place='jam maker',
     level=85,
     production_time=td(hours=6, minutes=30),
@@ -2218,6 +2403,7 @@ list_items.append(grape_jam)
 
 plum_jam = hayday(
     name=_('plum jam'),
+    name_key='plum jam',
     production_place='jam maker',
     level=94,
     production_time=td(hours=5),
@@ -2229,6 +2415,7 @@ list_items.append(plum_jam)
 
 passion_fruit_jam = hayday(
     name=_('passion fruit jam'),
+    name_key='passion fruit jam',
     production_place='jam maker',
     level=96,
     production_time=td(hours=3, minutes=20),
@@ -2243,6 +2430,7 @@ list_items.append(passion_fruit_jam)
 
 bracelet = hayday(
     name=_('bracelet'),
+    name_key='bracelet',
     production_place='jeweler',
     level=38,
     production_time=td(hours=2),
@@ -2255,6 +2443,7 @@ list_items.append(bracelet)
 
 necklace = hayday(
     name=_('necklace'),
+    name_key='necklace',
     production_place='jeweler',
     level=39,
     production_time=td(hours=3),
@@ -2268,6 +2457,7 @@ list_items.append(necklace)
 
 diamond_ring = hayday(
     name=_('diamond ring'),
+    name_key='diamond ring',
     production_place='jeweler',
     level=40,
     production_time=td(hours=4),
@@ -2281,6 +2471,7 @@ list_items.append(diamond_ring)
 
 iron_bracelet = hayday(
     name=_('iron bracelet'),
+    name_key='iron bracelet',
     production_place='jeweler',
     level=41,
     production_time=td(hours=1, minutes=30),
@@ -2294,6 +2485,7 @@ list_items.append(iron_bracelet)
 
 flower_pendant = hayday(
     name=_('flower pendant'),
+    name_key='flower pendant',
     production_place='jeweler',
     level=98,
     production_time=td(hours=1),
@@ -2310,6 +2502,7 @@ list_items.append(flower_pendant)
 
 caramel_apple = hayday(
     name=_('caramel apple'),
+    name_key='caramel apple',
     production_place='candy machine',
     level=51,
     production_time=td(hours=2),
@@ -2322,6 +2515,7 @@ list_items.append(caramel_apple)
 
 toffee = hayday(
     name=_('toffee'),
+    name_key='toffee',
     production_place='candy machine',
     level=52,
     production_time=td(hours=1, minutes=30),
@@ -2335,6 +2529,7 @@ list_items.append(toffee)
 
 chocolate = hayday(
     name=_('chocolate'),
+    name_key='chocolate',
     production_place='candy machine',
     level=54,
     production_time=td(hours=20),
@@ -2348,6 +2543,7 @@ list_items.append(chocolate)
 
 lollipop = hayday(
     name=_('lollipop'),
+    name_key='lollipop',
     production_place='candy machine',
     level=57,
     production_time=td(hours=12),
@@ -2361,6 +2557,7 @@ list_items.append(lollipop)
 
 jelly_beans = hayday(
     name=_('jelly beans'),
+    name_key='jelly beans',
     production_place='candy machine',
     level=60,
     production_time=td(hours=24),
@@ -2374,6 +2571,7 @@ list_items.append(jelly_beans)
 
 honey_peanuts = hayday(
     name=_('honey peanuts'),
+    name_key='honey peanuts',
     production_place='candy machine',
     level=63,
     production_time=td(minutes=40),
@@ -2386,6 +2584,7 @@ list_items.append(honey_peanuts)
 
 cotton_candy = hayday(
     name=_('cottom candy'),
+    name_key='cottom candy',
     production_place='candy machine',
     level=75,
     production_time=td(minutes=30),
@@ -2398,6 +2597,7 @@ list_items.append(cotton_candy)
 
 sesame_brittle = hayday(
     name=_('sesame brittle'),
+    name_key='sesame brittle',
     production_place='candy machine',
     level=78,
     production_time=td(hours=1),
@@ -2413,6 +2613,7 @@ list_items.append(sesame_brittle)
 
 espresso = hayday(
     name=_('espresso'),
+    name_key='espresso',
     production_place='coffee kiosk',
     level=42,
     production_time=td(minutes=5),
@@ -2425,6 +2626,7 @@ list_items.append(espresso)
 
 caffe_latte = hayday(
     name=_('caffe latte'),
+    name_key='caffe latte',
     production_place='coffee kiosk',
     level=43,
     production_time=td(minutes=10),
@@ -2438,6 +2640,7 @@ list_items.append(caffe_latte)
 
 caffe_mocha = hayday(
     name=_('caffe mocha'),
+    name_key='caffe mocha',
     production_place='coffee kiosk',
     level=45,
     production_time=td(minutes=15),
@@ -2451,6 +2654,7 @@ list_items.append(caffe_mocha)
 
 raspberry_mocha = hayday(
     name=_('raspberry mocha'),
+    name_key='raspberry mocha',
     production_place='coffee kiosk',
     level=46,
     production_time=td(minutes=30),
@@ -2465,6 +2669,7 @@ list_items.append(raspberry_mocha)
 
 hot_chocolate = hayday(
     name=_('hot chocolate'),
+    name_key='hot chocolate',
     production_place='coffee kiosk',
     level=47,
     production_time=td(minutes=25),
@@ -2479,6 +2684,7 @@ list_items.append(hot_chocolate)
 
 caramel_latte = hayday(
     name=_('caramel latte'),
+    name_key='caramel latte',
     production_place='coffee kiosk',
     level=62,
     production_time=td(minutes=15),
@@ -2492,6 +2698,7 @@ list_items.append(caramel_latte)
 
 iced_banana_latte = hayday(
     name=_('iced banana latte'),
+    name_key='iced banana latte',
     production_place='coffee kiosk',
     level=88,
     production_time=td(minutes=20),
@@ -2505,6 +2712,7 @@ list_items.append(iced_banana_latte)
 
 caramel_latte = hayday(
     name=_('caramel latte'),
+    name_key='caramel latte',
     production_place='coffee kiosk',
     level=62,
     production_time=td(minutes=15),
@@ -2520,6 +2728,7 @@ list_items.append(caramel_latte)
 
 vanilla_ice_cream = hayday(
     name=_('vanilla ice cream'),
+    name_key='vanilla ice cream',
     production_place='ice cream maker',
     level=29,
     production_time=td(hours=2),
@@ -2533,6 +2742,7 @@ list_items.append(vanilla_ice_cream)
 
 cherry_popsicle = hayday(
     name=_('cherry popsicle'),
+    name_key='cherry popsicle',
     production_place='ice cream maker',
     level=33,
     production_time=td(hours=3),
@@ -2545,6 +2755,7 @@ list_items.append(cherry_popsicle)
 
 strawberry_ice_cream = hayday(
     name=_('strawberry ice cream'),
+    name_key='strawberry ice cream',
     production_place='ice cream maker',
     level=34,
     production_time=td(hours=4),
@@ -2559,6 +2770,7 @@ list_items.append(strawberry_ice_cream)
 
 chocolate_ice_cream = hayday(
     name=_('chocolate ice cream'),
+    name_key='chocolate ice cream',
     production_place='ice cream maker',
     level=39,
     production_time=td(hours=2, minutes=30),
@@ -2573,6 +2785,7 @@ list_items.append(chocolate_ice_cream)
 
 sesame_ice_cream = hayday(
     name=_('sesame ice cream'),
+    name_key='sesame ice cream',
     production_place='ice cream maker',
     level=50,
     production_time=td(hours=2),
@@ -2586,6 +2799,7 @@ list_items.append(sesame_ice_cream)
 
 peanut_butter_milkshake = hayday(
     name=_('peanut butter milkshake'),
+    name_key='peanut butter milkshake',
     production_place='ice cream maker',
     level=68,
     production_time=td(hours=1, minutes=40),
@@ -2600,6 +2814,7 @@ list_items.append(peanut_butter_milkshake)
 
 orange_sorbet = hayday(
     name=_('orange sorbet'),
+    name_key='orange sorbet',
     production_place='ice cream maker',
     level=78,
     production_time=td(hours=3, minutes=30),
@@ -2612,6 +2827,7 @@ list_items.append(orange_sorbet)
 
 affogato = hayday(
     name=_('affogato'),
+    name_key='affogato',
     production_place='ice cream maker',
     level=78,
     production_time=td(minutes=20),
@@ -2624,6 +2840,7 @@ list_items.append(affogato)
 
 peach_ice_cream = hayday(
     name=_('peach ice cream'),
+    name_key='peach ice cream',
     production_place='ice cream maker',
     level=83,
     production_time=td(hours=3),
@@ -2638,6 +2855,7 @@ list_items.append(peach_ice_cream)
 
 mint_ice_cream = hayday(
     name=_('mint ice cream'),
+    name_key='mint ice cream',
     production_place='ice cream maker',
     level=85,
     production_time=td(hours=2, minutes=15),
@@ -2652,6 +2870,7 @@ list_items.append(mint_ice_cream)
 
 banana_split = hayday(
     name=_('banana split'),
+    name_key='banana split',
     production_place='ice cream maker',
     level=96,
     production_time=td(hours=3, minutes=30),
@@ -2665,6 +2884,7 @@ list_items.append(banana_split)
 
 coconut_ice_cream = hayday(
     name=_('coconut ice cream'),
+    name_key='coconut ice cream',
     production_place='ice cream maker',
     level=102,
     production_time=td(minutes=15),
@@ -2677,6 +2897,7 @@ list_items.append(coconut_ice_cream)
 
 fruit_sorbet = hayday(
     name=_('fruit sorbet'),
+    name_key='fruit sorbet',
     production_place='ice cream maker',
     level=106,
     production_time=td(hours=1),
@@ -2693,6 +2914,7 @@ list_items.append(fruit_sorbet)
 
 fresh_pasta = hayday(
     name=_('fresh pasta'),
+    name_key='fresh pasta',
     production_place='pasta maker',
     level=67,
     production_time=td(minutes=15),
@@ -2705,6 +2927,7 @@ list_items.append(fresh_pasta)
 
 rice_noodles = hayday(
     name=_('rice noddles'),
+    name_key='rice noddles',
     production_place='pasta maker',
     level=73,
     production_time=td(minutes=20),
@@ -2718,6 +2941,7 @@ list_items.append(rice_noodles)
 
 lobster_soup = hayday(
     name=_('lobster soup'),
+    name_key='lobster soup',
     production_place='soup kitchen',
     level=46,
     production_time=td(hours=2, minutes=30),
@@ -2732,6 +2956,7 @@ list_items.append(lobster_soup)
 
 tomato_soup = hayday(
     name=_('tomato soup'),
+    name_key='tomato soup',
     production_place='soup kitchen',
     level=47,
     production_time=td(hours=1, minutes=30),
@@ -2747,6 +2972,7 @@ list_items.append(tomato_soup)
 
 pumpkin_soup = hayday(
     name=_('pumpkin soup'),
+    name_key='pumpkin soup',
     production_place='soup kitchen',
     level=49,
     production_time=td(hours=2),
@@ -2761,6 +2987,7 @@ list_items.append(pumpkin_soup)
 
 fish_soup = hayday(
     name=_('fish soup'),
+    name_key='fish soup',
     production_place='soup kitchen',
     level=53,
     production_time=td(hours=3),
@@ -2775,6 +3002,7 @@ list_items.append(fish_soup)
 
 cabbage_soup = hayday(
     name=_('cabbage soup'),
+    name_key='cabbage soup',
     production_place='soup kitchen',
     level=65,
     production_time=td(hours=1, minutes=30),
@@ -2789,6 +3017,7 @@ list_items.append(cabbage_soup)
 
 onion_soup = hayday(
     name=_('onion soup'),
+    name_key='onion soup',
     production_place='soup kitchen',
     level=72,
     production_time=td(hours=2, minutes=30),
@@ -2802,6 +3031,7 @@ list_items.append(onion_soup)
 
 noodle_soup = hayday(
     name=_('noodle soup'),
+    name_key='noodle soup',
     production_place='soup kitchen',
     level=73,
     production_time=td(hours=2),
@@ -2816,6 +3046,7 @@ list_items.append(noodle_soup)
 
 potato_soup = hayday(
     name=_('potato soup'),
+    name_key='potato soup',
     production_place='soup kitchen',
     level=78,
     production_time=td(hours=2, minutes=30),
@@ -2829,6 +3060,7 @@ list_items.append(potato_soup)
 
 bell_pepper_soup = hayday(
     name=_('bell pepper soup'),
+    name_key='bell pepper soup',
     production_place='soup kitchen',
     level=81,
     production_time=td(hours=1),
@@ -2843,6 +3075,7 @@ list_items.append(bell_pepper_soup)
 
 broccoli_soup = hayday(
     name=_('broccoli soup'),
+    name_key='broccoli soup',
     production_place='soup kitchen',
     level=87,
     production_time=td(hours=1, minutes=30),
@@ -2856,6 +3089,7 @@ list_items.append(broccoli_soup)
 
 mushroom_soup = hayday(
     name=_('mushroom soup'),
+    name_key='mushroom soup',
     production_place='soup kitchen',
     level=104,
     production_time=td(hours=1, minutes=20),
@@ -2870,6 +3104,7 @@ list_items.append(mushroom_soup)
 # Candle maker
 strawberry_candle = hayday(
     name=_('strawberry candle'),
+    name_key='strawberry candle',
     production_place='candle maker',
     level=48,
     production_time=td(hours=2),
@@ -2883,6 +3118,7 @@ list_items.append(strawberry_candle)
 
 raspberry_candle = hayday(
     name=_('raspberry candle'),
+    name_key='raspberry candle',
     production_place='candle maker',
     level=52,
     production_time=td(hours=1, minutes=45),
@@ -2896,6 +3132,7 @@ list_items.append(raspberry_candle)
 
 lemon_candle = hayday(
     name=_('lemon candle'),
+    name_key='lemon candle',
     production_place='candle maker',
     level=72,
     production_time=td(hours=2, minutes=15),
@@ -2909,6 +3146,7 @@ list_items.append(lemon_candle)
 
 colorful_candles = hayday(
     name=_('colorful candles'),
+    name_key='colorful candles',
     production_place='candle maker',
     level=84,
     production_time=td(hours=1, minutes=50),
@@ -2923,6 +3161,7 @@ list_items.append(colorful_candles)
 
 floral_candle = hayday(
     name=_('floral candle'),
+    name_key='floral candle',
     production_place='candle maker',
     level=95,
     production_time=td(hours=2),
@@ -2941,6 +3180,7 @@ list_items.append(floral_candle)
 
 rustic_bouquet = hayday(
     name=_('rustic bouquet'),
+    name_key='rustic bouquet',
     production_place='flower shop',
     level=49,
     production_time=td(minutes=45),
@@ -2954,6 +3194,7 @@ list_items.append(rustic_bouquet)
 
 bright_bouquet = hayday(
     name=_('brigth bouquet'),
+    name_key='brigth bouquet',
     production_place='flower shop',
     level=65,
     production_time=td(minutes=20),
@@ -2968,6 +3209,7 @@ list_items.append(bright_bouquet)
 
 gracious_bouquet = hayday(
     name=_('gracious bouquet'),
+    name_key='gracious bouquet',
     production_place='flower shop',
     level=73,
     production_time=td(minutes=40),
@@ -2982,6 +3224,7 @@ list_items.append(gracious_bouquet)
 
 candy_bouquet = hayday(
     name=_('candy bouquet'),
+    name_key='candy bouquet',
     production_place='flower shop',
     level=90,
     production_time=td(minutes=20),
@@ -2995,6 +3238,7 @@ list_items.append(candy_bouquet)
 
 birthday_bouquet = hayday(
     name=_('birthday bouquet'),
+    name_key='birthday bouquet',
     production_place='flower shop',
     level=92,
     production_time=td(minutes=20),
@@ -3009,6 +3253,7 @@ list_items.append(birthday_bouquet)
 
 soft_bouquet = hayday(
     name=_('soft bouquet'),
+    name_key='soft bouquet',
     production_place='flower shop',
     level=93,
     production_time=td(minutes=30),
@@ -3022,6 +3267,7 @@ list_items.append(soft_bouquet)
 
 veggie_bouquet = hayday(
     name=_('veggie bouquet'),
+    name_key='veggie bouquet',
     production_place='flower shop',
     level=106,
     production_time=td(minutes=15),
@@ -3038,6 +3284,7 @@ list_items.append(veggie_bouquet)
 
 sushi_roll = hayday(
     name=_('sushi roll'),
+    name_key='sushi roll',
     production_place='sushi bar',
     level=56,
     production_time=td(hours=1),
@@ -3051,6 +3298,7 @@ list_items.append(sushi_roll)
 
 lobster_sushi = hayday(
     name=_('lobster sushi'),
+    name_key='lobster sushi',
     production_place='sushi bar',
     level=59,
     production_time=td(hours=1),
@@ -3064,6 +3312,7 @@ list_items.append(lobster_sushi)
 
 egg_sushi = hayday(
     name=_('egg sushi'),
+    name_key='egg sushi',
     production_place='sushi bar',
     level=66,
     production_time=td(hours=2),
@@ -3078,6 +3327,7 @@ list_items.append(egg_sushi)
 
 big_sushi_roll = hayday(
     name=_('big sushi roll'),
+    name_key='big sushi roll',
     production_place='sushi bar',
     level=76,
     production_time=td(hours=1, minutes=30),
@@ -3092,6 +3342,7 @@ list_items.append(big_sushi_roll)
 
 rice_ball = hayday(
     name=_('rice ball'),
+    name_key='rice ball',
     production_place='sushi bar',
     level=110,
     production_time=td(minutes=45),
@@ -3107,6 +3358,7 @@ list_items.append(rice_ball)
 # Salad bar
 feta_salad = hayday(
     name=_('feta salad'),
+    name_key='feta salad',
     production_place='salad bar',
     level=58,
     production_time=td(hours=1, minutes=30),
@@ -3121,6 +3373,7 @@ list_items.append(feta_salad)
 
 blt_salad = hayday(
     name=_('BLT salad'),
+    name_key='BLT salad',
     production_place='salad bar',
     level=62,
     production_time=td(hours=1, minutes=45),
@@ -3135,6 +3388,7 @@ list_items.append(blt_salad)
 
 seafood_salad = hayday(
     name=_('seafood salad'),
+    name_key='seafood salad',
     production_place='salad bar',
     level=64,
     production_time=td(hours=2),
@@ -3149,6 +3403,7 @@ list_items.append(seafood_salad)
 
 pasta_salad = hayday(
     name=_('pasta salad'),
+    name_key='pasta salad',
     production_place='salad bar',
     level=67,
     production_time=td(hours=2, minutes=30),
@@ -3163,6 +3418,7 @@ list_items.append(pasta_salad)
 
 veggie_platter = hayday(
     name=_('veggie platter'),
+    name_key='veggie platter',
     production_place='salad bar',
     level=74,
     production_time=td(hours=2),
@@ -3177,6 +3433,7 @@ list_items.append(veggie_platter)
 
 coleslaw = hayday(
     name=_('coleslaw'),
+    name_key='coleslaw',
     production_place='salad bar',
     level=75,
     production_time=td(hours=1, minutes=15),
@@ -3190,6 +3447,7 @@ list_items.append(coleslaw)
 
 beetroot_salad = hayday(
     name=_('beetroot salad'),
+    name_key='beetroot salad',
     production_place='salad bar',
     level=76,
     production_time=td(minutes=45),
@@ -3202,6 +3460,7 @@ list_items.append(beetroot_salad)
 
 summer_rolls = hayday(
     name=_('summer rolls'),
+    name_key='summer rolls',
     production_place='salad bar',
     level=78,
     production_time=td(hours=1),
@@ -3216,6 +3475,7 @@ list_items.append(summer_rolls)
 
 fruit_salad = hayday(
     name=_('fruit salad'),
+    name_key='fruit salad',
     production_place='salad bar',
     level=82,
     production_time=td(hours=2),
@@ -3231,6 +3491,7 @@ list_items.append(fruit_salad)
 
 summer_salad = hayday(
     name=_('summer salad'),
+    name_key='summer salad',
     production_place='salad bar',
     level=84,
     production_time=td(hours=3),
@@ -3245,6 +3506,7 @@ list_items.append(summer_salad)
 
 mushroom_salad = hayday(
     name=_('mushroom salad'),
+    name_key='mushroom salad',
     production_place='salad bar',
     level=89,
     production_time=td(hours=1),
@@ -3261,6 +3523,7 @@ list_items.append(mushroom_salad)
 
 veggie_bagel = hayday(
     name=_('veggie bagel'),
+    name_key='veggie bagel',
     production_place='sandwich bar',
     level=61,
     production_time=td(minutes=40),
@@ -3275,6 +3538,7 @@ list_items.append(veggie_bagel)
 
 bacon_toast = hayday(
     name=_('bacon toast'),
+    name_key='bacon toast',
     production_place='sandwich bar',
     level=65,
     production_time=td(hours=1, minutes=40),
@@ -3289,6 +3553,7 @@ list_items.append(bacon_toast)
 
 egg_sandwich = hayday(
     name=_('egg sandwich'),
+    name_key='egg sandwich',
     production_place='sandwich bar',
     level=66,
     production_time=td(hours=1, minutes=20),
@@ -3303,6 +3568,7 @@ list_items.append(egg_sandwich)
 
 honey_toast = hayday(
     name=_('honey toast'),
+    name_key='honey toast',
     production_place='sandwich bar',
     level=69,
     production_time=td(hours=1),
@@ -3317,6 +3583,7 @@ list_items.append(honey_toast)
 
 peanut_butter_and_jelly_sandwich = hayday(
     name=_('peanut butter and jelly sandwich'),
+    name_key='peanut butter and jelly sandwich',
     production_place='sandwich bar',
     level=71,
     production_time=td(minutes=25),
@@ -3330,6 +3597,7 @@ list_items.append(peanut_butter_and_jelly_sandwich)
 
 cucumber_sandwich = hayday(
     name=_('cucumber sandwich'),
+    name_key='cucumber sandwich',
     production_place='sandwich bar',
     level=79,
     production_time=td(minutes=35),
@@ -3343,6 +3611,7 @@ list_items.append(cucumber_sandwich)
 
 onion_melt = hayday(
     name=_('onion melt'),
+    name_key='onion melt',
     production_place='sandwich bar',
     level=84,
     production_time=td(hours=1, minutes=30),
@@ -3357,6 +3626,7 @@ list_items.append(onion_melt)
 
 goat_cheese_toast = hayday(
     name=_('goat cheese toast'),
+    name_key='goat cheese toast',
     production_place='sandwich bar',
     level=92,
     production_time=td(minutes=50),
@@ -3370,6 +3640,7 @@ list_items.append(goat_cheese_toast)
 
 hummus_wrap = hayday(
     name=_('hummus wrap'),
+    name_key='hummus wrap',
     production_place='sandwich bar',
     level=109,
     production_time=td(minutes=30),
@@ -3386,6 +3657,7 @@ list_items.append(hummus_wrap)
 
 berry_smoothie = hayday(
     name=_('berry smoothie'),
+    name_key='berry smoothie',
     production_place='smoothie mixer',
     level=64,
     production_time=td(hours=1, minutes=15),
@@ -3399,6 +3671,7 @@ list_items.append(berry_smoothie)
 
 green_smoothie = hayday(
     name=_('green smoothie'),
+    name_key='green smoothie',
     production_place='smoothie mixer',
     level=66,
     production_time=td(minutes=45),
@@ -3412,6 +3685,7 @@ list_items.append(green_smoothie)
 
 yogurt_smoothie = hayday(
     name=_('yogurt smoothie'),
+    name_key='yogurt smoothie',
     production_place='smoothie mixer',
     level=70,
     production_time=td(hours=1),
@@ -3426,6 +3700,7 @@ list_items.append(yogurt_smoothie)
 
 cucumber_smoothie = hayday(
     name=_('cucumber smoothie'),
+    name_key='cucumber smoothie',
     production_place='smoothie mixer',
     level=70,
     production_time=td(minutes=40),
@@ -3439,6 +3714,7 @@ list_items.append(cucumber_smoothie)
 
 mixed_smoothie = hayday(
     name=_('mixed smoothie'),
+    name_key='mixed smoothie',
     production_place='smoothie mixer',
     level=88,
     production_time=td(minutes=30),
@@ -3452,6 +3728,7 @@ list_items.append(mixed_smoothie)
 
 black_sesame_smoothie = hayday(
     name=_('black sesame smoothie'),
+    name_key='black sesame smoothie',
     production_place='smoothie mixer',
     level=93,
     production_time=td(minutes=45),
@@ -3465,6 +3742,7 @@ list_items.append(black_sesame_smoothie)
 
 cocoa_smoothie = hayday(
     name=_('cocoa smoothie'),
+    name_key='cocoa smoothie',
     production_place='smoothie mixer',
     level=100,
     production_time=td(minutes=40),
@@ -3478,6 +3756,7 @@ list_items.append(cocoa_smoothie)
 
 plum_smoothie = hayday(
     name=_('plum smoothie'),
+    name_key='plum smoothie',
     production_place='smoothie mixer',
     level=102,
     production_time=td(minutes=35),
@@ -3492,6 +3771,7 @@ list_items.append(plum_smoothie)
 
 tropical_smoothie = hayday(
     name=_('tropical smoothie'),
+    name_key='tropical smoothie',
     production_place='smoothie mixer',
     level=104,
     production_time=td(minutes=40),
@@ -3509,6 +3789,7 @@ list_items.append(tropical_smoothie)
 
 fried_rice = hayday(
     name=_('fried rice'),
+    name_key='fried rice',
     production_place='wok kitchen',
     level=69,
     production_time=td(hours=1),
@@ -3521,6 +3802,7 @@ list_items.append(fried_rice)
 
 spicy_fish = hayday(
     name=_('spicy fish'),
+    name_key='spicy fish',
     production_place='wok kitchen',
     level=79,
     production_time=td(hours=1, minutes=30),
@@ -3535,6 +3817,7 @@ list_items.append(spicy_fish)
 
 peanut_noodles = hayday(
     name=_('peanut noodles'),
+    name_key='peanut noodles',
     production_place='wok kitchen',
     level=86,
     production_time=td(minutes=45),
@@ -3549,6 +3832,7 @@ list_items.append(peanut_noodles)
 
 tofu_stir_fry = hayday(
     name=_('tofu stir fry'),
+    name_key='tofu stir fry',
     production_place='wok kitchen',
     level=89,
     production_time=td(hours=1, minutes=15),
@@ -3566,6 +3850,7 @@ list_items.append(tofu_stir_fry)
 
 cloche_hat = hayday(
     name=_('cloche hat'),
+    name_key='cloche hat',
     production_place='hat maker',
     level=70,
     production_time=td(hours=2),
@@ -3578,6 +3863,7 @@ list_items.append(cloche_hat)
 
 top_hat = hayday(
     name=_('top hat'),
+    name_key='top hat',
     production_place='hat maker',
     level=72,
     production_time=td(hours=3, minutes=30),
@@ -3591,6 +3877,7 @@ list_items.append(top_hat)
 
 sun_hat = hayday(
     name=_('sun hat'),
+    name_key='sun hat',
     production_place='hat maker',
     level=74,
     production_time=td(hours=2, minutes=30),
@@ -3605,6 +3892,7 @@ list_items.append(sun_hat)
 
 flower_crown = hayday(
     name=_('flower crown'),
+    name_key='flower crown',
     production_place='hat maker',
     level=86,
     production_time=td(hours=2),
@@ -3619,6 +3907,7 @@ list_items.append(flower_crown)
 
 gnocchi = hayday(
     name=_('gnocchi'),
+    name_key='gnocchi',
     production_place='pasta kitchen',
     level=72,
     production_time=td(hours=1, minutes=20),
@@ -3633,6 +3922,7 @@ list_items.append(gnocchi)
 
 veggie_lasagna = hayday(
     name=_('veggie lasagna'),
+    name_key='veggie lasagna',
     production_place='pasta kitchen',
     level=74,
     production_time=td(hours=1, minutes=40),
@@ -3647,6 +3937,7 @@ list_items.append(veggie_lasagna)
 
 lobster_pasta = hayday(
     name=_('lobster pasta'),
+    name_key='lobster pasta',
     production_place='pasta kitchen',
     level=79,
     production_time=td(hours=2),
@@ -3661,6 +3952,7 @@ list_items.append(lobster_pasta)
 
 pasta_carbonara = hayday(
     name=_('pasta carbonara'),
+    name_key='pasta carbonara',
     production_place='pasta kitchen',
     level=83,
     production_time=td(hours=2, minutes=30),
@@ -3675,6 +3967,7 @@ list_items.append(pasta_carbonara)
 
 broccoli_pasta = hayday(
     name=_('broccoli pasta'),
+    name_key='broccoli pasta',
     production_place='pasta kitchen',
     level=83,
     production_time=td(hours=1),
@@ -3688,6 +3981,7 @@ list_items.append(broccoli_pasta)
 
 spicy_pasta = hayday(
     name=_('spicy pasta'),
+    name_key='spicy pasta',
     production_place='pasta kitchen',
     level=87,
     production_time=td(hours=1, minutes=30),
@@ -3702,6 +3996,7 @@ list_items.append(spicy_pasta)
 
 mushroom_pasta = hayday(
     name=_('mushroom pasta'),
+    name_key='mushroom pasta',
     production_place='pasta kitchen',
     level=101,
     production_time=td(hours=1, minutes=15),
@@ -3717,6 +4012,7 @@ list_items.append(mushroom_pasta)
 
 hot_dog = hayday(
     name=_('hot dog'),
+    name_key='hot dog',
     production_place='hot dog stand',
     level=75,
     production_time=td(minutes=30),
@@ -3730,6 +4026,7 @@ list_items.append(hot_dog)
 
 tofu_dog = hayday(
     name=_('tofu dog'),
+    name_key='tofu dog',
     production_place='hot dog stand',
     level=76,
     production_time=td(minutes=45),
@@ -3743,6 +4040,7 @@ list_items.append(tofu_dog)
 
 corn_dog = hayday(
     name=_('corn dog'),
+    name_key='corn dog',
     production_place='hot dog stand',
     level=78,
     production_time=td(hours=1),
@@ -3756,6 +4054,7 @@ list_items.append(corn_dog)
 
 onion_dog = hayday(
     name=_('onion dog'),
+    name_key='onion dog',
     production_place='hot dog stand',
     level=80,
     production_time=td(hours=1, minutes=15),
@@ -3773,6 +4072,7 @@ list_items.append(onion_dog)
 
 plain_donut = hayday(
     name=_('plain donut'),
+    name_key='plain donut',
     production_place='donut maker',
     level=76,
     production_time=td(minutes=15),
@@ -3787,6 +4087,7 @@ list_items.append(plain_donut)
 
 sprinkled_donut = hayday(
     name=_('sprinkled donut'),
+    name_key='sprinkled donut',
     production_place='donut maker',
     level=79,
     production_time=td(minutes=20),
@@ -3799,6 +4100,7 @@ list_items.append(sprinkled_donut)
 
 crunchy_donut = hayday(
     name=_('crunchy donut'),
+    name_key='crunchy donut',
     production_place='donut maker',
     level=82,
     production_time=td(minutes=30),
@@ -3812,6 +4114,7 @@ list_items.append(crunchy_donut)
 
 cream_donut = hayday(
     name=_('cream donut'),
+    name_key='cream donut',
     production_place='donut maker',
     level=86,
     production_time=td(minutes=25),
@@ -3825,6 +4128,7 @@ list_items.append(cream_donut)
 
 bacon_donut = hayday(
     name=_('bacon donut'),
+    name_key='bacon donut',
     production_place='donut maker',
     level=88,
     production_time=td(minutes=30),
@@ -3838,6 +4142,7 @@ list_items.append(bacon_donut)
 
 filled_donut = hayday(
     name=_('filled donut'),
+    name_key='filled donut',
     production_place='donut maker',
     level=93,
     production_time=td(minutes=35),
@@ -3852,6 +4157,7 @@ list_items.append(filled_donut)
 
 taco = hayday(
     name=_('taco'),
+    name_key='taco',
     production_place='taco kitchen',
     level=77,
     production_time=td(minutes=45),
@@ -3865,6 +4171,7 @@ list_items.append(taco)
 
 fish_taco = hayday(
     name=_('fish taco'),
+    name_key='fish taco',
     production_place='taco kitchen',
     level=79,
     production_time=td(hours=1, minutes=30),
@@ -3879,6 +4186,7 @@ list_items.append(fish_taco)
 
 quesadillas = hayday(
     name=_('quesadillas'),
+    name_key='quesadillas',
     production_place='taco kitchen',
     level=82,
     production_time=td(hours=1),
@@ -3892,6 +4200,7 @@ list_items.append(quesadillas)
 
 nachos = hayday(
     name=_('nachos'),
+    name_key='nachos',
     production_place='taco kitchen',
     level=87,
     production_time=td(hours=1, minutes=15),
@@ -3906,6 +4215,7 @@ list_items.append(nachos)
 # Tea stand
 green_tea = hayday(
     name=_('green tea'),
+    name_key='green tea',
     production_place='tea stand',
     level=80,
     production_time=td(minutes=30),
@@ -3917,6 +4227,7 @@ list_items.append(green_tea)
 
 milk_tea = hayday(
     name=_('milk tea'),
+    name_key='milk tea',
     production_place='tea stand',
     level=81,
     production_time=td(minutes=45),
@@ -3929,6 +4240,7 @@ list_items.append(milk_tea)
 
 honey_tea = hayday(
     name=_('honey tea'),
+    name_key='honey tea',
     production_place='tea stand',
     level=83,
     production_time=td(minutes=40),
@@ -3941,6 +4253,7 @@ list_items.append(honey_tea)
 
 lemon_tea = hayday(
     name=_('lemon tea'),
+    name_key='lemon tea',
     production_place='tea stand',
     level=86,
     production_time=td(minutes=20),
@@ -3953,6 +4266,7 @@ list_items.append(lemon_tea)
 
 apple_ginger_tea = hayday(
     name=_('apple ginger tea'),
+    name_key='apple ginger tea',
     production_place='tea stand',
     level=88,
     production_time=td(minutes=30),
@@ -3966,6 +4280,7 @@ list_items.append(apple_ginger_tea)
 
 orange_tea = hayday(
     name=_('orange tea'),
+    name_key='orange tea',
     production_place='tea stand',
     level=89,
     production_time=td(minutes=40),
@@ -3978,6 +4293,7 @@ list_items.append(orange_tea)
 
 iced_tea = hayday(
     name=_('iced tea'),
+    name_key='iced tea',
     production_place='tea stand',
     level=92,
     production_time=td(minutes=30),
@@ -3990,6 +4306,7 @@ list_items.append(iced_tea)
 
 mint_tea = hayday(
     name=_('mint tea'),
+    name_key='mint tea',
     production_place='tea stand',
     level=97,
     production_time=td(minutes=35),
@@ -4005,6 +4322,7 @@ list_items.append(mint_tea)
 # Fondue Pot
 chocolate_fondue = hayday(
     name=_('chocolate fondue'),
+    name_key='chocolate fondue',
     production_place='fondue pot',
     level=81,
     production_time=td(minutes=25),
@@ -4017,6 +4335,7 @@ list_items.append(chocolate_fondue)
 
 bacon_fondue = hayday(
     name=_('bacon fondue'),
+    name_key='bacon fondue',
     production_place='fondue pot',
     level=86,
     production_time=td(minutes=30),
@@ -4031,6 +4350,7 @@ list_items.append(bacon_fondue)
 
 cheese_fondue = hayday(
     name=_('cheese fondue'),
+    name_key='cheese fondue',
     production_place='fondue pot',
     level=91,
     production_time=td(minutes=20),
@@ -4045,6 +4365,7 @@ list_items.append(cheese_fondue)
 
 tropical_fondue = hayday(
     name=_('tropical fondue'),
+    name_key='tropical fondue',
     production_place='fondue pot',
     level=100,
     production_time=td(minutes=35),
@@ -4061,6 +4382,7 @@ list_items.append(tropical_fondue)
 
 lemon_lotion = hayday(
     name=_('lemon lotion'),
+    name_key='lemon lotion',
     production_place='bath kiosk',
     level=84,
     production_time=td(hours=1, minutes=15),
@@ -4073,6 +4395,7 @@ list_items.append(lemon_lotion)
 
 honey_soap = hayday(
     name=_('honey soap'),
+    name_key='honey soap',
     production_place='bath kiosk',
     level=84,
     production_time=td(hours=1),
@@ -4086,6 +4409,7 @@ list_items.append(honey_soap)
 
 exfoliating_soap = hayday(
     name=_('exfoliating soap'),
+    name_key='exfoliating soap',
     production_place='bath kiosk',
     level=93,
     production_time=td(hours=1),
@@ -4099,6 +4423,7 @@ list_items.append(exfoliating_soap)
 
 honey_face_mask = hayday(
     name=_('honey face mask'),
+    name_key='honey face mask',
     production_place='bath kiosk',
     level=99,
     production_time=td(hours=1, minutes=30),
@@ -4114,6 +4439,7 @@ list_items.append(honey_face_mask)
 
 bacon_fries = hayday(
     name=_('bacon fries'),
+    name_key='bacon fries',
     production_place='deep fryer',
     level=87,
     production_time=td(minutes=25),
@@ -4128,6 +4454,7 @@ list_items.append(bacon_fries)
 
 hand_pies = hayday(
     name=_('hand pies'),
+    name_key='hand pies',
     production_place='deep fryer',
     level=91,
     production_time=td(minutes=20),
@@ -4141,6 +4468,7 @@ list_items.append(hand_pies)
 
 chili_poppers = hayday(
     name=_('chili poppers'),
+    name_key='chili poppers',
     production_place='deep fryer',
     level=98,
     production_time=td(minutes=40),
@@ -4155,6 +4483,7 @@ list_items.append(chili_poppers)
 
 falafel = hayday(
     name=_('falafel'),
+    name_key='falafel',
     production_place='deep fryer',
     level=98,
     production_time=td(minutes=55),
@@ -4169,6 +4498,7 @@ list_items.append(falafel)
 
 fried_candy_bar = hayday(
     name=_('fried candy bar'),
+    name_key='fried candy bar',
     production_place='deep fryer',
     level=100,
     production_time=td(minutes=15),
@@ -4182,6 +4512,7 @@ list_items.append(fried_candy_bar)
 
 samosa = hayday(
     name=_('samosa'),
+    name_key='samosa',
     production_place='deep fryer',
     level=103,
     production_time=td(hours=1, minutes=15),
@@ -4199,6 +4530,7 @@ list_items.append(samosa)
 
 pickles = hayday(
     name=_('pickles'),
+    name_key='pickles',
     production_place='preservation station',
     level=91,
     production_time=td(hours=4),
@@ -4212,6 +4544,7 @@ list_items.append(pickles)
 
 canned_fish = hayday(
     name=_('canned fish'),
+    name_key='canned fish',
     production_place='preservation station',
     level=95,
     production_time=td(hours=3, minutes=40),
@@ -4225,6 +4558,7 @@ list_items.append(canned_fish)
 
 kimchi = hayday(
     name=_('kimchi'),
+    name_key='kimchi',
     production_place='preservation station',
     level=98,
     production_time=td(hours=5),
@@ -4239,6 +4573,7 @@ list_items.append(kimchi)
 
 dried_fruit = hayday(
     name=_('dried fruit'),
+    name_key='dried fruit',
     production_place='preservation station',
     level=102,
     production_time=td(hours=3),
@@ -4253,6 +4588,7 @@ list_items.append(dried_fruit)
 
 guava_compote = hayday(
     name=_('guava compote'),
+    name_key='guava compote',
     production_place='preservation station',
     level=104,
     production_time=td(hours=4, minutes=20),
@@ -4268,6 +4604,7 @@ list_items.append(guava_compote)
 #  Fudge shop
 rich_fudge = hayday(
     name=_('rich fudge'),
+    name_key='rich fudge',
     production_place='fudge shop',
     level=99,
     production_time=td(hours=2),
@@ -4281,6 +4618,7 @@ list_items.append(rich_fudge)
 
 mint_fudge = hayday(
     name=_('mint fudge'),
+    name_key='mint fudge',
     production_place='fudge shop',
     level=102,
     production_time=td(hours=2, minutes=30),
@@ -4295,6 +4633,7 @@ list_items.append(mint_fudge)
 
 chili_fudge = hayday(
     name=_('chili fudge'),
+    name_key='chili fudge',
     production_place='fudge shop',
     level=104,
     production_time=td(hours=2, minutes=50),
@@ -4309,6 +4648,7 @@ list_items.append(chili_fudge)
 
 lemon_fudge = hayday(
     name=_('lemon fudge'),
+    name_key='lemon fudge',
     production_place='fudge shop',
     level=108,
     production_time=td(hours=1, minutes=50),
@@ -4323,6 +4663,7 @@ list_items.append(lemon_fudge)
 
 peanut_fudge = hayday(
     name=_('peanut fudge'),
+    name_key='peanut fudge',
     production_place='fudge shop',
     level=111,
     production_time=td(hours=1, minutes=30),
@@ -4339,6 +4680,7 @@ list_items.append(peanut_fudge)
 #  Yogurt Maker
 plain_yogurt = hayday(
     name=_('plain yogurt'),
+    name_key='plain yogurt',
     production_place='yogurt maker',
     level=103,
     production_time=td(hours=2),
@@ -4351,6 +4693,7 @@ list_items.append(plain_yogurt)
 
 strawberry_yogurt = hayday(
     name=_('strawbery yogurt'),
+    name_key='strawbery yogurt',
     production_place='yogurt maker',
     level=105,
     production_time=td(minutes=40),
@@ -4363,6 +4706,7 @@ list_items.append(strawberry_yogurt)
 
 tropical_yogurt = hayday(
     name=_('tropical yogurt'),
+    name_key='tropical yogurt',
     production_place='yogurt maker',
     level=109,
     production_time=td(hours=1),
@@ -4379,6 +4723,7 @@ list_items.append(tropical_yogurt)
 #  Stew Pot
 chickpea_stew = hayday(
     name=_('chickpea stew'),
+    name_key='chickpea stew',
     production_place='stew pot',
     level=106,
     production_time=td(hours=1, minutes=30),
@@ -4392,6 +4737,7 @@ list_items.append(chickpea_stew)
 
 chili_stew = hayday(
     name=_('chili stew'),
+    name_key='chili stew',
     production_place='stew pot',
     level=109,
     production_time=td(hours=2),
@@ -4406,6 +4752,7 @@ list_items.append(chili_stew)
 
 winter_stew = hayday(
     name=_('winter stew'),
+    name_key='winter stew',
     production_place='stew pot',
     level=112,
     production_time=td(hours=2, minutes=20),
@@ -4421,6 +4768,7 @@ list_items.append(winter_stew)
 #  Cupcake maker
 plain_cupcake = hayday(
     name=_('plain cupcake'),
+    name_key='plain cupcake',
     production_place='cupcake maker',
     level=109,
     production_time=td(minutes=40),
@@ -4435,6 +4783,7 @@ list_items.append(plain_cupcake)
 
 guava_cupcake = hayday(
     name=_('guava cupcake'),
+    name_key='guava cupcake',
     production_place='cupcake maker',
     level=109,
     production_time=td(hours=1, minutes=10),
@@ -4448,6 +4797,7 @@ list_items.append(guava_cupcake)
 
 tropical_cupcake = hayday(
     name=_('tropical cupcake'),
+    name_key='tropical cupcake',
     production_place='cupcake maker',
     level=112,
     production_time=td(hours=1, minutes=30),
@@ -4461,6 +4811,7 @@ list_items.append(tropical_cupcake)
 
 cookie_cupcake = hayday(
     name=_('cookie cupcake'),
+    name_key='cookie cupcake',
     production_place='cupcake maker',
     level=114,
     production_time=td(hours=2),

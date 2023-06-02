@@ -11,7 +11,7 @@ import pandas as pd
 
 class hayday(object):
     def __init__(
-        self, name, production_place, level, production_time, price_sell, img
+        self, name, name_key, production_place, level, production_time, price_sell, img
     ):
         """Constructor to describe each item in the game.
 
@@ -36,6 +36,7 @@ class hayday(object):
         """
         # list to store individual components
         self.name = name
+        self.name_key = name_key
         self.production_place = production_place
         self.production_time = production_time
         self.price_sell = price_sell
@@ -74,9 +75,9 @@ class hayday(object):
             production_price += item.price_sell * quantity
 
         if (
-            self.name == "pig food"
-            or self.name == "cow food"
-            or self.name == "chicken food"
+            self.name_key == "pig food"
+            or self.name_key == "cow food"
+            or self.name_key == "chicken food"
         ):
             return production_price / 3.0
 
