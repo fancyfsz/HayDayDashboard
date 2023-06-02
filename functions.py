@@ -17,8 +17,7 @@ from item import *
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-
-
+from fancy_get_text import _
 # print('# of item in list_items {:2d}'.format(len(list_items)))
 
 
@@ -108,6 +107,7 @@ def generate_df():
             'profit_per_hour',
             'prod_cost',
             'place',
+            'place_name'
         ]
     )
     
@@ -122,6 +122,7 @@ def generate_df():
                 'profit_per_hour': [item.get_profit() / item.get_production_time()],
                 'prod_cost': [item.get_production_price()],
                 'place': [item.production_place],
+                'place_name': [_(item.production_place)]
             }
         ))
     df_items = pd.concat(dfs, ignore_index=True)

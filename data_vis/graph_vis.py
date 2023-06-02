@@ -12,6 +12,8 @@
 from data_vis.main_dash import *
 from build_graph import *
 
+unique_places = df.drop_duplicates(subset=['place_name', 'place'])
+options = [{'label': row['place_name'], 'value': row['place']} for index, row in unique_places.iterrows()]
 
 tab_graph = html.Div(
     [
@@ -32,10 +34,7 @@ tab_graph = html.Div(
                                 html.Label('place:', style={'width': '6%'}),
                                 dcc.Dropdown(
                                     id='place_from',
-                                    options=[
-                                        {'label': i, 'value': i}
-                                        for i in df['place'].unique()
-                                    ],
+                                    options=options,
                                     value='bakery',
                                     multi=False,
                                     style={

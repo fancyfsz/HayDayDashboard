@@ -1416,3 +1416,6 @@ msgstr ""
 #: item.py:4463
 msgid "cookie cupcake"
 msgstr ""
+
+msgid "bakery"
+msgstr ""

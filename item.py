@@ -16,14 +16,7 @@ from hayday import hayday
 
 # from datetime  import time as td
 from datetime import timedelta as td
-import os
-import gettext
-_ = gettext.gettext
-
-APP_NAME = "item"
-LOCALE_DIR = os.path.abspath("locale")
-gettext.bindtextdomain(APP_NAME, LOCALE_DIR)
-gettext.textdomain(APP_NAME)
+from fancy_get_text import _
 
 list_items = []  # Store every item defined below
 # Crops
