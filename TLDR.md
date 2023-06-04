@@ -46,3 +46,11 @@ python3 -m pip install \
     pygraphviz
 ```
 
+如果你用的是其他的平台，可以参考 https://pygraphviz.github.io/documentation/stable/install.html 
+
+比如Windows就相对麻烦一些，需要安装visual studio的build tools，版本号是14.0及其以上。安装完如果执行命令还是报错，可以参考 https://bobbyhadz.com/blog/error-microsoft-visual-c-14-0-or-greater-is-required
+
+最终方案请参考 https://aitechtogether.com/c_language/86321.html
+
+1. 安装graphviz http://www.graphviz.org/download/ 勾选add path for all users
+2. 安装pygraghviz https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygraphviz
