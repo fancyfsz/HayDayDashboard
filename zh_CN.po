@@ -427,111 +427,111 @@ msgstr ""
 
 #: item.py:1187
 msgid "pancake"
-msgstr ""
+msgstr "小煎饼"
 
 #: item.py:1199
 msgid "bakon and eggs"
-msgstr ""
+msgstr "培根煎蛋"
 
 #: item.py:1211
 msgid "hamburger"
-msgstr ""
+msgstr "汉堡包"
 
 #: item.py:1223
 msgid "fish burger"
-msgstr ""
+msgstr "鲜鱼汉堡"
 
 #: item.py:1236
 msgid "roasted tomatoes"
-msgstr ""
+msgstr "烤西红柿"
 
 #: item.py:1247
 msgid "baked potato"
-msgstr ""
+msgstr "烤土豆"
 
 #: item.py:1261
 msgid "fish and chips"
-msgstr ""
+msgstr "炸鱼薯片"
 
 #: item.py:1273
 msgid "lobster skewer"
-msgstr ""
+msgstr "龙虾串"
 
 #: item.py:1286
 msgid "garlic bread"
-msgstr ""
+msgstr "蒜蓉面包"
 
 #: item.py:1300
 msgid "grilled onion"
-msgstr ""
+msgstr "烤洋葱"
 
 #: item.py:1312
 msgid "winter veggies"
-msgstr ""
+msgstr "蔬菜烤串"
 
 #: item.py:1326
 msgid "stuffed peppers"
-msgstr ""
+msgstr "酿甜椒"
 
 #: item.py:1340
 msgid "grilled eggplant"
-msgstr ""
+msgstr "烤茄子"
 
 #: item.py:1352
 msgid "banana pancakes"
-msgstr ""
+msgstr "香蕉煎饼"
 
 #: item.py:1366
 msgid "fish skewer"
-msgstr ""
+msgstr "烤鱼肉串"
 
 #: item.py:1382
 msgid "carrot pie"
-msgstr ""
+msgstr "胡萝卜派"
 
 #: item.py:1395
 msgid "pumpkin pie"
-msgstr ""
+msgstr "南瓜派"
 
 #: item.py:1408
 msgid "bacon pie"
-msgstr ""
+msgstr "熏肉派"
 
 #: item.py:1421
 msgid "apple pie"
-msgstr ""
+msgstr "苹果派"
 
 #: item.py:1435
 msgid "fish pie"
-msgstr ""
+msgstr "鲜鱼派"
 
 #: item.py:1448
 msgid "feta pie"
-msgstr ""
+msgstr "芝士派"
 
 #: item.py:1461
 msgid "casserole"
-msgstr ""
+msgstr "法国砂锅"
 
 #: item.py:1475
 msgid "shepherds pie"
-msgstr ""
+msgstr "肉馅土豆饼"
 
 #: item.py:1489
 msgid "chocolate pie"
-msgstr ""
+msgstr "巧克力派"
 
 #: item.py:1503
 msgid "lemon pie"
-msgstr ""
+msgstr "柠檬派"
 
 #: item.py:1516
 msgid "peach tart"
-msgstr ""
+msgstr "蜜桃派"
 
 #: item.py:1530
 msgid "passion fruit pie"
-msgstr ""
+msgstr "百香果派"
 
 #: item.py:1543
 msgid "mushroom pot pie"
@@ -543,47 +543,47 @@ msgstr ""
 
 #: item.py:1572
 msgid "sweater"
-msgstr ""
+msgstr "白毛衣"
 
 #: item.py:1583
 msgid "cotton fabric"
-msgstr ""
+msgstr "棉布"
 
 #: item.py:1594
 msgid "blue woolly hat"
-msgstr ""
+msgstr "蓝棉帽"
 
 #: item.py:1606
 msgid "blue sweater"
-msgstr ""
+msgstr "蓝毛衣"
 
 #: item.py:1618
 msgid "red scarf"
-msgstr ""
+msgstr "红围巾"
 
 #: item.py:1630
 msgid "flower shawl"
-msgstr ""
+msgstr "花朵披肩"
 
 #: item.py:1645
 msgid "cotton shirt"
-msgstr ""
+msgstr "棉质衬衫"
 
 #: item.py:1656
 msgid "wooly chaps"
-msgstr ""
+msgstr "羊毛裤"
 
 #: item.py:1668
 msgid "violet dress"
-msgstr ""
+msgstr "紫色连衣裙"
 
 #: item.py:1681
 msgid "pillow"
-msgstr ""
+msgstr "枕头"
 
 #: item.py:1694
 msgid "blanket"
-msgstr ""
+msgstr "毯子"
 
 #: item.py:1709
 msgid "silver ore"
@@ -1419,3 +1419,138 @@ msgstr ""
 
 msgid "bakery"
 msgstr "面包房"
+
+msgid "bath kiosk"
+msgstr ""
+
+msgid "bbq grill"
+msgstr "烧烤架"
+
+msgid "cake oven"
+msgstr ""
+
+msgid "candle maker"
+msgstr "蜡烛制造机"
+
+msgid "candy machine"
+msgstr "糖果机"
+
+msgid "coffee kiosk"
+msgstr "咖啡亭"
+
+msgid "dairy"
+msgstr "乳品厂"
+
+msgid "deep fryer"
+msgstr ""
+
+msgid "donut maker"
+msgstr ""
+
+msgid "duck salon"
+msgstr "小鸭沙龙"
+
+msgid "farm"
+msgstr "农场"
+
+msgid "feed mill"
+msgstr "饲料厂"
+
+msgid "fishing lake"
+msgstr "钓鱼场"
+
+msgid "flower shop"
+msgstr "花坊"
+
+msgid "fondue pot"
+msgstr ""
+
+msgid "fudge shop"
+msgstr ""
+
+msgid "hat maker"
+msgstr "制帽机"
+
+msgid "honey extractor"
+msgstr "摇蜜机"
+
+msgid "hot dog stand"
+msgstr "热狗摊"
+
+msgid "ice cream maker"
+msgstr "冰淇淋机"
+
+msgid "jam maker"
+msgstr "果酱机"
+
+msgid "jeweler"
+msgstr "珠宝店"
+
+msgid "juice press"
+msgstr "果汁机"
+
+msgid "loom"
+msgstr "织布机"
+
+msgid "mine"
+msgstr ""
+
+msgid "pasta kitchen"
+msgstr "意面厨房"
+
+msgid "pasta maker"
+msgstr "面条机"
+
+msgid "pie oven"
+msgstr "馅饼烤炉"
+
+msgid "popcorn pot"
+msgstr "爆米花烤锅"
+
+msgid "preservation station"
+msgstr ""
+
+msgid "salad bar"
+msgstr "沙拉吧"
+
+msgid "sandwich bar"
+msgstr "三明治店"
+
+msgid "sauce maker"
+msgstr "酱汁机"
+
+msgid "sewing machine"
+msgstr "缝纫机"
+
+msgid "smelter"
+msgstr ""
+
+msgid "smoothie mixer"
+msgstr "沙冰机"
+
+msgid "soup kitchen"
+msgstr "鲜汤小馆"
+
+msgid "sugar mill"
+msgstr "制糖厂"
+
+msgid "sushi bar"
+msgstr "寿司吧"
+
+msgid "taco kitchen"
+msgstr ""
+
+msgid "tea stand"
+msgstr ""
+
+msgid "wok kitchen"
+msgstr ""
+
+msgid "yogurt maker"
+msgstr ""
+
+msgid "stew pot"
+msgstr ""
+
+msgid "cupcake maker"
+msgstr ""
