@@ -783,163 +783,163 @@ msgstr "铁手镯"
 
 #: item.py:2296
 msgid "flower pendant"
-msgstr ""
+msgstr "花形吊坠"
 
 #: item.py:2312
 msgid "caramel apple"
-msgstr ""
+msgstr "焦糖苹果"
 
 #: item.py:2324
 msgid "toffee"
-msgstr ""
+msgstr "太妃糖"
 
 #: item.py:2337
 msgid "chocolate"
-msgstr ""
+msgstr "巧克力"
 
 #: item.py:2350
 msgid "lollipop"
-msgstr ""
+msgstr "棒棒糖"
 
 #: item.py:2363
 msgid "jelly beans"
-msgstr ""
+msgstr "软糖豆"
 
 #: item.py:2376
 msgid "honey peanuts"
-msgstr ""
+msgstr "蜜糖花生"
 
 #: item.py:2388
 msgid "cottom candy"
-msgstr ""
+msgstr "棉花糖"
 
 #: item.py:2400
 msgid "sesame brittle"
-msgstr ""
+msgstr "芝麻酥"
 
 #: item.py:2415
 msgid "espresso"
-msgstr ""
+msgstr "意式咖啡"
 
 #: item.py:2427
 msgid "caffe latte"
-msgstr ""
+msgstr "拿铁"
 
 #: item.py:2440
 msgid "caffe mocha"
-msgstr ""
+msgstr "摩卡"
 
 #: item.py:2453
 msgid "raspberry mocha"
-msgstr ""
+msgstr "树莓摩卡"
 
 #: item.py:2467
 msgid "hot chocolate"
-msgstr ""
+msgstr "热巧克力"
 
 #: item.py:2481 item.py:2507
 msgid "caramel latte"
-msgstr ""
+msgstr "焦糖拿铁"
 
 #: item.py:2494
 msgid "iced banana latte"
-msgstr ""
+msgstr "香蕉冰咖啡"
 
 #: item.py:2522
 msgid "vanilla ice cream"
-msgstr ""
+msgstr "香草冰淇淋"
 
 #: item.py:2535
 msgid "cherry popsicle"
-msgstr ""
+msgstr "樱桃雪糕"
 
 #: item.py:2547
 msgid "strawberry ice cream"
-msgstr ""
+msgstr "草莓冰淇淋"
 
 #: item.py:2561
 msgid "chocolate ice cream"
-msgstr ""
+msgstr "巧克力冰淇淋"
 
 #: item.py:2575
 msgid "sesame ice cream"
-msgstr ""
+msgstr "芝麻冰淇淋"
 
 #: item.py:2588
 msgid "peanut butter milkshake"
-msgstr ""
+msgstr "花生奶昔"
 
 #: item.py:2602
 msgid "orange sorbet"
-msgstr ""
+msgstr "香橙冰糕"
 
 #: item.py:2614
 msgid "affogato"
-msgstr ""
+msgstr "阿芙佳朵"
 
 #: item.py:2626
 msgid "peach ice cream"
-msgstr ""
+msgstr "水蜜桃冰淇淋"
 
 #: item.py:2640
 msgid "mint ice cream"
-msgstr ""
+msgstr "薄荷冰淇淋"
 
 #: item.py:2654
 msgid "banana split"
-msgstr ""
+msgstr "香蕉圣代"
 
 #: item.py:2667
 msgid "coconut ice cream"
-msgstr ""
+msgstr "椰子冰淇淋"
 
 #: item.py:2679
 msgid "fruit sorbet"
-msgstr ""
+msgstr "水果冰糕"
 
 #: item.py:2695
 msgid "fresh pasta"
-msgstr ""
+msgstr "新鲜意面"
 
 #: item.py:2707
 msgid "rice noddles"
-msgstr ""
+msgstr "米线"
 
 #: item.py:2720
 msgid "lobster soup"
-msgstr ""
+msgstr "龙虾汤"
 
 #: item.py:2734
 msgid "tomato soup"
-msgstr ""
+msgstr "西红柿汤"
 
 #: item.py:2749
 msgid "pumpkin soup"
-msgstr ""
+msgstr "南瓜汤"
 
 #: item.py:2763
 msgid "fish soup"
-msgstr ""
+msgstr "鲜鱼汤"
 
 #: item.py:2777
 msgid "cabbage soup"
-msgstr ""
+msgstr "卷心菜汤"
 
 #: item.py:2791
 msgid "onion soup"
-msgstr ""
+msgstr "洋葱汤"
 
 #: item.py:2804
 msgid "noodle soup"
-msgstr ""
+msgstr "鸡汤面"
 
 #: item.py:2818
 msgid "potato soup"
-msgstr ""
+msgstr "土豆汤"
 
 #: item.py:2831
 msgid "bell pepper soup"
-msgstr ""
+msgstr "甜椒汤"
 
 #: item.py:2845
 msgid "broccoli soup"
@@ -951,47 +951,47 @@ msgstr ""
 
 #: item.py:2872
 msgid "strawberry candle"
-msgstr ""
+msgstr "草莓蜡烛"
 
 #: item.py:2885
 msgid "raspberry candle"
-msgstr ""
+msgstr "树莓蜡烛"
 
 #: item.py:2898
 msgid "lemon candle"
-msgstr ""
+msgstr "柠檬蜡烛"
 
 #: item.py:2911
 msgid "colorful candles"
-msgstr ""
+msgstr "彩色蜡烛"
 
 #: item.py:2925
 msgid "floral candle"
-msgstr ""
+msgstr "鲜花蜡烛"
 
 #: item.py:2943
 msgid "rustic bouquet"
-msgstr ""
+msgstr "田园花束"
 
 #: item.py:2956
 msgid "brigth bouquet"
-msgstr ""
+msgstr "向阳花束"
 
 #: item.py:2970
 msgid "gracious bouquet"
-msgstr ""
+msgstr "豪华花束"
 
 #: item.py:2984
 msgid "candy bouquet"
-msgstr ""
+msgstr "糖果花束"
 
 #: item.py:2997
 msgid "birthday bouquet"
-msgstr ""
+msgstr "生日花束"
 
 #: item.py:3011
 msgid "soft bouquet"
-msgstr ""
+msgstr "淡雅花束"
 
 #: item.py:3024
 msgid "veggie bouquet"
