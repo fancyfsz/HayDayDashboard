@@ -607,179 +607,179 @@ msgstr ""
 
 #: item.py:1762
 msgid "carrot cake"
-msgstr ""
+msgstr "胡萝卜蛋糕"
 
 #: item.py:1775
 msgid "cream cake"
-msgstr ""
+msgstr "奶油蛋糕"
 
 #: item.py:1788
 msgid "red berry cake"
-msgstr ""
+msgstr "红莓蛋糕"
 
 #: item.py:1802
 msgid "cheesecake"
-msgstr ""
+msgstr "奶酪蛋糕"
 
 #: item.py:1814
 msgid "strawberry  cake"
-msgstr ""
+msgstr "草莓蛋糕"
 
 #: item.py:1828
 msgid "chocolate cake"
-msgstr ""
+msgstr "巧克力蛋糕"
 
 #: item.py:1841
 msgid "potato feta cake"
-msgstr ""
+msgstr "土豆芝士蛋糕"
 
 #: item.py:1854
 msgid "honey apple cake"
-msgstr ""
+msgstr "蜂蜜苹果蛋糕"
 
 #: item.py:1868
 msgid "fancy cake"
-msgstr ""
+msgstr "花式蛋糕"
 
 #: item.py:1882
 msgid "pineapple cake"
-msgstr ""
+msgstr "菠萝蛋糕"
 
 #: item.py:1896
 msgid "lemon cake"
-msgstr ""
+msgstr "柠檬蛋糕"
 
 #: item.py:1910
 msgid "fruit cake"
-msgstr ""
+msgstr "水果档啊嗷"
 
 #: item.py:1923
 msgid "chocolate roll"
-msgstr ""
+msgstr "巧克力卷"
 
 #: item.py:1939
 msgid "silver bar"
-msgstr ""
+msgstr "银条"
 
 #: item.py:1950
 msgid "gold bar"
-msgstr ""
+msgstr "金条"
 
 #: item.py:1961
 msgid "platinum  bar"
-msgstr ""
+msgstr "铂金条"
 
 #: item.py:1972
 msgid "refined coal"
-msgstr ""
+msgstr "精炼煤炭"
 
 #: item.py:1983
 msgid "iron bar"
-msgstr ""
+msgstr "铁锭"
 
 #: item.py:1996
 msgid "carrot juice"
-msgstr ""
+msgstr "胡萝卜汁"
 
 #: item.py:2007
 msgid "apple juice"
-msgstr ""
+msgstr "苹果汁"
 
 #: item.py:2018
 msgid "cherry juice"
-msgstr ""
+msgstr "樱桃汁"
 
 #: item.py:2029
 msgid "tomato juice"
-msgstr ""
+msgstr "西红柿汁"
 
 #: item.py:2040
 msgid "berry juice"
-msgstr ""
+msgstr "浆果汁"
 
 #: item.py:2052
 msgid "pineapple juice"
-msgstr ""
+msgstr "菠萝汁"
 
 #: item.py:2063
 msgid "orange juice"
-msgstr ""
+msgstr "橙汁"
 
 #: item.py:2074
 msgid "grape juice"
-msgstr ""
+msgstr "葡萄汁"
 
 #: item.py:2085
 msgid "passion fruit juice"
-msgstr ""
+msgstr "百香果汁"
 
 #: item.py:2097
 msgid "watermelon juice"
-msgstr ""
+msgstr "西瓜汁"
 
 #: item.py:2108
 msgid "mango juice"
-msgstr ""
+msgstr "芒果汁"
 
 #: item.py:2119
 msgid "guava juice"
-msgstr ""
+msgstr "番石榴汁"
 
 #: item.py:2132
 msgid "apple jam"
-msgstr ""
+msgstr "苹果酱"
 
 #: item.py:2143
 msgid "raspberry jam"
-msgstr ""
+msgstr "红莓酱"
 
 #: item.py:2154
 msgid "blackberry jam"
-msgstr ""
+msgstr "黑莓酱"
 
 #: item.py:2165
 msgid "cherry jam"
-msgstr ""
+msgstr "樱桃酱"
 
 #: item.py:2176
 msgid "strawberry jam"
-msgstr ""
+msgstr "草莓酱"
 
 #: item.py:2187
 msgid "marmalade"
-msgstr ""
+msgstr "香橙酱"
 
 #: item.py:2198
 msgid "peach jam"
-msgstr ""
+msgstr "蜜桃酱"
 
 #: item.py:2209
 msgid "grape jam"
-msgstr ""
+msgstr "葡萄酱"
 
 #: item.py:2220
 msgid "plum jam"
-msgstr ""
+msgstr "西梅酱"
 
 #: item.py:2231
 msgid "passion fruit jam"
-msgstr ""
+msgstr "百香果酱"
 
 #: item.py:2245
 msgid "bracelet"
-msgstr ""
+msgstr "手镯"
 
 #: item.py:2257
 msgid "necklace"
-msgstr ""
+msgstr "项链"
 
 #: item.py:2270
 msgid "diamond ring"
-msgstr ""
+msgstr "钻石戒指"
 
 #: item.py:2283
 msgid "iron bracelet"
-msgstr ""
+msgstr "铁手镯"
 
 #: item.py:2296
 msgid "flower pendant"
